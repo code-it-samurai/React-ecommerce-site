@@ -1,0 +1,5249 @@
+[
+  {
+    "brand": "Asus",
+    "product_name": "Cube",
+    "sub_category": "mobile",
+    "price": "₹24781",
+    "category": "Electronics",
+    "id": 1,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ETBW11AA",
+    "sub_category": "mobile",
+    "price": "₹14885",
+    "category": "Electronics",
+    "id": 2,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Eee Pad",
+    "sub_category": "tab",
+    "price": "₹12746",
+    "category": "Electronics",
+    "id": 3,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Eee Pad Slider",
+    "sub_category": "tab",
+    "price": "₹14044",
+    "category": "Electronics",
+    "id": 4,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Eee Pad TF101",
+    "sub_category": "tab",
+    "price": "₹40156",
+    "category": "Electronics",
+    "id": 5,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Eee Pad TF101-WiMAX",
+    "sub_category": "tab",
+    "price": "₹30744",
+    "category": "Electronics",
+    "id": 6,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Eee Pad Transformer",
+    "sub_category": "tab",
+    "price": "₹28175",
+    "category": "Electronics",
+    "id": 7,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Eee Pad Transformer Prime",
+    "sub_category": "tab",
+    "price": "₹17721",
+    "category": "Electronics",
+    "id": 8,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "EeePad Slider SL101",
+    "sub_category": "tab",
+    "price": "₹29832",
+    "category": "Electronics",
+    "id": 9,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Fonepad 7 (FE170CG)",
+    "sub_category": "tab",
+    "price": "₹10706",
+    "category": "Electronics",
+    "id": 10,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Fonepad 7 (FE171CG)",
+    "sub_category": "tab",
+    "price": "₹27131",
+    "category": "Electronics",
+    "id": 11,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Fonepad 7 (FE171MG)",
+    "sub_category": "tab",
+    "price": "₹38241",
+    "category": "Electronics",
+    "id": 12,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Fonepad 7 (FE375CG)",
+    "sub_category": "tab",
+    "price": "₹11114",
+    "category": "Electronics",
+    "id": 13,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Fonepad 7 (FE375CXG)",
+    "sub_category": "tab",
+    "price": "₹49574",
+    "category": "Electronics",
+    "id": 14,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Fonepad 7 (ME175CG)",
+    "sub_category": "tab",
+    "price": "₹24694",
+    "category": "Electronics",
+    "id": 15,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Fonepad 7 (ME372CG)",
+    "sub_category": "tab",
+    "price": "₹9324",
+    "category": "Electronics",
+    "id": 16,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Fonepad 7 LTE (FE375CL)",
+    "sub_category": "tab",
+    "price": "₹48603",
+    "category": "Electronics",
+    "id": 17,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Fonepad 7 LTE (ME372CL)",
+    "sub_category": "tab",
+    "price": "₹27408",
+    "category": "Electronics",
+    "id": 18,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Fonepad 8 (FE380CG)",
+    "sub_category": "tab",
+    "price": "₹26762",
+    "category": "Electronics",
+    "id": 19,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Fonepad 8 (FE380CXG)",
+    "sub_category": "tab",
+    "price": "₹15718",
+    "category": "Electronics",
+    "id": 20,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Fonepad ME371MG",
+    "sub_category": "tab",
+    "price": "₹41920",
+    "category": "Electronics",
+    "id": 21,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Fonepad Note 6 (ME560CG)",
+    "sub_category": "tab",
+    "price": "₹24253",
+    "category": "Electronics",
+    "id": 22,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "MeMO PAD",
+    "sub_category": "tab",
+    "price": "₹37123",
+    "category": "Electronics",
+    "id": 23,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "MeMO Pad (ME103K)",
+    "sub_category": "tab",
+    "price": "₹43547",
+    "category": "Electronics",
+    "id": 24,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "MeMO Pad 10 (ME102A)",
+    "sub_category": "tab",
+    "price": "₹44009",
+    "category": "Electronics",
+    "id": 25,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "MeMO Pad 7 (FE7010CG)",
+    "sub_category": "tab",
+    "price": "₹10293",
+    "category": "Electronics",
+    "id": 26,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "MeMO Pad 7 (ME170C)",
+    "sub_category": "tab",
+    "price": "₹47242",
+    "category": "Electronics",
+    "id": 27,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "MeMO Pad 7 (ME171C)",
+    "sub_category": "tab",
+    "price": "₹5489",
+    "category": "Electronics",
+    "id": 28,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "MeMO Pad 7 (ME176C)",
+    "sub_category": "tab",
+    "price": "₹31752",
+    "category": "Electronics",
+    "id": 29,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "MeMO Pad 7 (ME176CE)",
+    "sub_category": "tab",
+    "price": "₹24735",
+    "category": "Electronics",
+    "id": 30,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "MeMO Pad 7 (ME176CX)",
+    "sub_category": "tab",
+    "price": "₹32376",
+    "category": "Electronics",
+    "id": 31,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "MeMO Pad 7 (ME572C)",
+    "sub_category": "tab",
+    "price": "₹45428",
+    "category": "Electronics",
+    "id": 32,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "MeMO Pad 7 (ME70C)",
+    "sub_category": "tab",
+    "price": "₹41892",
+    "category": "Electronics",
+    "id": 33,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "MeMO Pad 7 LTE (ME375CL)",
+    "sub_category": "tab",
+    "price": "₹13985",
+    "category": "Electronics",
+    "id": 34,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "MeMO Pad 7 LTE (ME572CL)",
+    "sub_category": "tab",
+    "price": "₹37561",
+    "category": "Electronics",
+    "id": 35,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "MeMO Pad 7 LTE (ME7530CL)",
+    "sub_category": "tab",
+    "price": "₹13290",
+    "category": "Electronics",
+    "id": 36,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "MeMO Pad 8 (AST21)",
+    "sub_category": "tab",
+    "price": "₹36658",
+    "category": "Electronics",
+    "id": 37,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "MeMO Pad 8 (ME181C)",
+    "sub_category": "tab",
+    "price": "₹26104",
+    "category": "Electronics",
+    "id": 38,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "MeMO Pad 8 (ME181CX)",
+    "sub_category": "tab",
+    "price": "₹31459",
+    "category": "Electronics",
+    "id": 39,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "MeMO Pad 8 (ME581C)",
+    "sub_category": "tab",
+    "price": "₹28454",
+    "category": "Electronics",
+    "id": 40,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "MeMO Pad 8 (ME581CL)",
+    "sub_category": "tab",
+    "price": "₹8628",
+    "category": "Electronics",
+    "id": 41,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "MeMO Pad FHD 10 (ME302KL)",
+    "sub_category": "tab",
+    "price": "₹14735",
+    "category": "Electronics",
+    "id": 42,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "MeMO Pad HD 7 (ME173X)",
+    "sub_category": "tab",
+    "price": "₹12160",
+    "category": "Electronics",
+    "id": 43,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "MeMO Pad HD 7 (ME173XX)",
+    "sub_category": "tab",
+    "price": "₹9817",
+    "category": "Electronics",
+    "id": 44,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "MeMO Pad HD 8 (ME180A)",
+    "sub_category": "tab",
+    "price": "₹8590",
+    "category": "Electronics",
+    "id": 45,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "MeMO Pad HD7 Dual SIM (ME175KG)",
+    "sub_category": "tab",
+    "price": "₹39306",
+    "category": "Electronics",
+    "id": 46,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "MeMO Pad Smart 10",
+    "sub_category": "tab",
+    "price": "₹26428",
+    "category": "Electronics",
+    "id": 47,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "MeMo Pad 10 (ME302C)",
+    "sub_category": "tab",
+    "price": "₹34973",
+    "category": "Electronics",
+    "id": 48,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "MeMo Pad HD 7 (ME173XX)",
+    "sub_category": "tab",
+    "price": "₹39757",
+    "category": "Electronics",
+    "id": 49,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Nexus 7 (2012)",
+    "sub_category": "mobile",
+    "price": "₹36789",
+    "category": "Electronics",
+    "id": 50,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Nexus 7 (2013)",
+    "sub_category": "mobile",
+    "price": "₹43211",
+    "category": "Electronics",
+    "id": 51,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Nexus Player",
+    "sub_category": "mobile",
+    "price": "₹8356",
+    "category": "Electronics",
+    "id": 52,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Nuvifone",
+    "sub_category": "mobile",
+    "price": "₹24032",
+    "category": "Electronics",
+    "id": 53,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "PadFone",
+    "sub_category": "tab",
+    "price": "₹35954",
+    "category": "Electronics",
+    "id": 54,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "PadFone 2",
+    "sub_category": "tab",
+    "price": "₹38790",
+    "category": "Electronics",
+    "id": 55,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "PadFone E (A68M)",
+    "sub_category": "tab",
+    "price": "₹20719",
+    "category": "Electronics",
+    "id": 56,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "PadFone Infinity",
+    "sub_category": "tab",
+    "price": "₹29797",
+    "category": "Electronics",
+    "id": 57,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "PadFone Mini",
+    "sub_category": "tab",
+    "price": "₹49151",
+    "category": "Electronics",
+    "id": 58,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "PadFone S (PF500KL)",
+    "sub_category": "tab",
+    "price": "₹40045",
+    "category": "Electronics",
+    "id": 59,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "PadFone X (A91)",
+    "sub_category": "tab",
+    "price": "₹30388",
+    "category": "Electronics",
+    "id": 60,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "PadFone X mini (PF450CL)",
+    "sub_category": "tab",
+    "price": "₹14024",
+    "category": "Electronics",
+    "id": 61,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "PadFone mini",
+    "sub_category": "tab",
+    "price": "₹40065",
+    "category": "Electronics",
+    "id": 62,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "R Series Tablet (R1001MFL)",
+    "sub_category": "tab",
+    "price": "₹38361",
+    "category": "Electronics",
+    "id": 63,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "R Series Tablet (R1001ML)",
+    "sub_category": "tab",
+    "price": "₹24706",
+    "category": "Electronics",
+    "id": 64,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ROG Phone",
+    "sub_category": "mobile",
+    "price": "₹15700",
+    "category": "Electronics",
+    "id": 65,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ROG Phone 3",
+    "sub_category": "mobile",
+    "price": "₹16745",
+    "category": "Electronics",
+    "id": 66,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ROG Phone 5",
+    "sub_category": "mobile",
+    "price": "₹47137",
+    "category": "Electronics",
+    "id": 67,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ROG Phone ll",
+    "sub_category": "mobile",
+    "price": "₹45299",
+    "category": "Electronics",
+    "id": 68,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "RTC-700A",
+    "sub_category": "mobile",
+    "price": "₹45363",
+    "category": "Electronics",
+    "id": 69,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "T101TA",
+    "sub_category": "mobile",
+    "price": "₹19150",
+    "category": "Electronics",
+    "id": 70,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "TF700T",
+    "sub_category": "mobile",
+    "price": "₹39031",
+    "category": "Electronics",
+    "id": 71,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "TX201LAF",
+    "sub_category": "mobile",
+    "price": "₹36107",
+    "category": "Electronics",
+    "id": 72,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "The new PadFone Infinity (A86)",
+    "sub_category": "tab",
+    "price": "₹25737",
+    "category": "Electronics",
+    "id": 73,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Trans AiO P1801",
+    "sub_category": "mobile",
+    "price": "₹18011",
+    "category": "Electronics",
+    "id": 74,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "TransBook Trio",
+    "sub_category": "laptop",
+    "price": "₹7866",
+    "category": "Electronics",
+    "id": 75,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Transformer AiO P1801",
+    "sub_category": "mobile",
+    "price": "₹30063",
+    "category": "Electronics",
+    "id": 76,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Transformer AiO P1802",
+    "sub_category": "mobile",
+    "price": "₹24849",
+    "category": "Electronics",
+    "id": 77,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Transformer Book Trio",
+    "sub_category": "laptop",
+    "price": "₹7084",
+    "category": "Electronics",
+    "id": 78,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Transformer Pad",
+    "sub_category": "tab",
+    "price": "₹22050",
+    "category": "Electronics",
+    "id": 79,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Transformer Pad (TF103C)",
+    "sub_category": "tab",
+    "price": "₹40274",
+    "category": "Electronics",
+    "id": 80,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Transformer Pad (TF103CE)",
+    "sub_category": "tab",
+    "price": "₹23819",
+    "category": "Electronics",
+    "id": 81,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Transformer Pad (TF103CG)",
+    "sub_category": "tab",
+    "price": "₹43837",
+    "category": "Electronics",
+    "id": 82,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Transformer Pad (TF303CL)",
+    "sub_category": "tab",
+    "price": "₹13672",
+    "category": "Electronics",
+    "id": 83,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Transformer Pad (TF303K)",
+    "sub_category": "tab",
+    "price": "₹24246",
+    "category": "Electronics",
+    "id": 84,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Transformer Pad Infinity",
+    "sub_category": "tab",
+    "price": "₹30352",
+    "category": "Electronics",
+    "id": 85,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Transformer Pad Infinity (TF701T)",
+    "sub_category": "tab",
+    "price": "₹11063",
+    "category": "Electronics",
+    "id": 86,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Transformer Pad TF300TG",
+    "sub_category": "tab",
+    "price": "₹25484",
+    "category": "Electronics",
+    "id": 87,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Transformer Pad TF300TL",
+    "sub_category": "tab",
+    "price": "₹28431",
+    "category": "Electronics",
+    "id": 88,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Transformer Pad TF502T",
+    "sub_category": "tab",
+    "price": "₹19138",
+    "category": "Electronics",
+    "id": 89,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Transformer Pad TF600T",
+    "sub_category": "tab",
+    "price": "₹42627",
+    "category": "Electronics",
+    "id": 90,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Transformer TF101G",
+    "sub_category": "mobile",
+    "price": "₹10896",
+    "category": "Electronics",
+    "id": 91,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 2 (ZE500CL)",
+    "sub_category": "mobile",
+    "price": "₹17081",
+    "category": "Electronics",
+    "id": 92,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 2 (ZE550ML)",
+    "sub_category": "mobile",
+    "price": "₹8143",
+    "category": "Electronics",
+    "id": 93,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 2 (ZE551ML)",
+    "sub_category": "mobile",
+    "price": "₹5221",
+    "category": "Electronics",
+    "id": 94,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 2 Laser (ZE500KG)",
+    "sub_category": "mobile",
+    "price": "₹12740",
+    "category": "Electronics",
+    "id": 95,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 2 Laser (ZE500KL)",
+    "sub_category": "mobile",
+    "price": "₹20095",
+    "category": "Electronics",
+    "id": 96,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 2 Laser (ZE550KG)",
+    "sub_category": "mobile",
+    "price": "₹8528",
+    "category": "Electronics",
+    "id": 97,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 2 Laser (ZE550KL)",
+    "sub_category": "mobile",
+    "price": "₹46637",
+    "category": "Electronics",
+    "id": 98,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 2 Laser (ZE551KL)",
+    "sub_category": "mobile",
+    "price": "₹21335",
+    "category": "Electronics",
+    "id": 99,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 2 Laser (ZE600KL)",
+    "sub_category": "mobile",
+    "price": "₹23800",
+    "category": "Electronics",
+    "id": 100,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 2 Laser (ZE601KL)",
+    "sub_category": "mobile",
+    "price": "₹5041",
+    "category": "Electronics",
+    "id": 101,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 3 (ZE520KL)",
+    "sub_category": "mobile",
+    "price": "₹5065",
+    "category": "Electronics",
+    "id": 102,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 3 (ZE552KL)",
+    "sub_category": "mobile",
+    "price": "₹37886",
+    "category": "Electronics",
+    "id": 103,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 3 Deluxe (ZS550KL)",
+    "sub_category": "mobile",
+    "price": "₹26800",
+    "category": "Electronics",
+    "id": 104,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 3 Deluxe (ZS570KL)",
+    "sub_category": "mobile",
+    "price": "₹22143",
+    "category": "Electronics",
+    "id": 105,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 3 Laser (ZC551KL)",
+    "sub_category": "mobile",
+    "price": "₹6546",
+    "category": "Electronics",
+    "id": 106,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 3 Max (ZC520TL)",
+    "sub_category": "mobile",
+    "price": "₹48677",
+    "category": "Electronics",
+    "id": 107,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 3 Max (ZC553KL)",
+    "sub_category": "mobile",
+    "price": "₹6416",
+    "category": "Electronics",
+    "id": 108,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 3 Ultra (ZU680KL)",
+    "sub_category": "mobile",
+    "price": "₹37141",
+    "category": "Electronics",
+    "id": 109,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 3 Zoom (ZE553KL)",
+    "sub_category": "mobile",
+    "price": "₹45975",
+    "category": "Electronics",
+    "id": 110,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 3s Max (ZC521TL)",
+    "sub_category": "mobile",
+    "price": "₹20771",
+    "category": "Electronics",
+    "id": 111,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 4 (A400CG)",
+    "sub_category": "mobile",
+    "price": "₹38295",
+    "category": "Electronics",
+    "id": 112,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 4 (A450CG)",
+    "sub_category": "mobile",
+    "price": "₹9647",
+    "category": "Electronics",
+    "id": 113,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 4 (ZE554KL)",
+    "sub_category": "mobile",
+    "price": "₹19424",
+    "category": "Electronics",
+    "id": 114,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 4 Max (ZC520KL)",
+    "sub_category": "mobile",
+    "price": "₹49880",
+    "category": "Electronics",
+    "id": 115,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 4 Max (ZC554KL)",
+    "sub_category": "mobile",
+    "price": "₹14144",
+    "category": "Electronics",
+    "id": 116,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 4 Pro (ZS551KL)",
+    "sub_category": "mobile",
+    "price": "₹39155",
+    "category": "Electronics",
+    "id": 117,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 4 Selfie (ZD553KL)",
+    "sub_category": "mobile",
+    "price": "₹26798",
+    "category": "Electronics",
+    "id": 118,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 4 Selfie Lite (ZB520KL)",
+    "sub_category": "mobile",
+    "price": "₹46836",
+    "category": "Electronics",
+    "id": 119,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 4 Selfie Pro (ZD552KL)",
+    "sub_category": "mobile",
+    "price": "₹27126",
+    "category": "Electronics",
+    "id": 120,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 5",
+    "sub_category": "mobile",
+    "price": "₹42494",
+    "category": "Electronics",
+    "id": 121,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 5 (A500CG)",
+    "sub_category": "mobile",
+    "price": "₹14897",
+    "category": "Electronics",
+    "id": 122,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 5 (A501CG)",
+    "sub_category": "mobile",
+    "price": "₹15615",
+    "category": "Electronics",
+    "id": 123,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 5 (A502CG)",
+    "sub_category": "mobile",
+    "price": "₹32065",
+    "category": "Electronics",
+    "id": 124,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 5 (ZE620KL)",
+    "sub_category": "mobile",
+    "price": "₹10650",
+    "category": "Electronics",
+    "id": 125,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 5 LTE (A500KL)",
+    "sub_category": "mobile",
+    "price": "₹21757",
+    "category": "Electronics",
+    "id": 126,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 5 Lite (ZC600KL)",
+    "sub_category": "mobile",
+    "price": "₹13646",
+    "category": "Electronics",
+    "id": 127,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 5Z (ZS620KL) (WW) / 5Z (ZS621KL) (IN)",
+    "sub_category": "mobile",
+    "price": "₹41597",
+    "category": "Electronics",
+    "id": 128,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 6",
+    "sub_category": "mobile",
+    "price": "₹28287",
+    "category": "Electronics",
+    "id": 129,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 6 (A600CG)",
+    "sub_category": "mobile",
+    "price": "₹25832",
+    "category": "Electronics",
+    "id": 130,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 6 (A601CG)",
+    "sub_category": "mobile",
+    "price": "₹20784",
+    "category": "Electronics",
+    "id": 131,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 6 (ZS630KL) (WW) / 6Z (ZS630KL) (IN)",
+    "sub_category": "mobile",
+    "price": "₹21901",
+    "category": "Electronics",
+    "id": 132,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 7 / 7 Pro (ZS670KS/ZS671KS)",
+    "sub_category": "mobile",
+    "price": "₹37846",
+    "category": "Electronics",
+    "id": 133,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 8 Flip",
+    "sub_category": "mobile",
+    "price": "₹23679",
+    "category": "Electronics",
+    "id": 134,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone 8/ ASUS 8Z",
+    "sub_category": "mobile",
+    "price": "₹18251",
+    "category": "Electronics",
+    "id": 135,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone AR",
+    "sub_category": "mobile",
+    "price": "₹23287",
+    "category": "Electronics",
+    "id": 136,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone AR (ZS571KL)",
+    "sub_category": "mobile",
+    "price": "₹6173",
+    "category": "Electronics",
+    "id": 137,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone Ares (ZS572KL)",
+    "sub_category": "mobile",
+    "price": "₹43631",
+    "category": "Electronics",
+    "id": 138,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone C (ZC451CG)",
+    "sub_category": "mobile",
+    "price": "₹37376",
+    "category": "Electronics",
+    "id": 139,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone Go (T500)",
+    "sub_category": "mobile",
+    "price": "₹36652",
+    "category": "Electronics",
+    "id": 140,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone Go (ZB450KL)",
+    "sub_category": "mobile",
+    "price": "₹42930",
+    "category": "Electronics",
+    "id": 141,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone Go (ZB452KG)",
+    "sub_category": "mobile",
+    "price": "₹49911",
+    "category": "Electronics",
+    "id": 142,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone Go (ZB500KG)",
+    "sub_category": "mobile",
+    "price": "₹10532",
+    "category": "Electronics",
+    "id": 143,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone Go (ZB500KL)",
+    "sub_category": "mobile",
+    "price": "₹22082",
+    "category": "Electronics",
+    "id": 144,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone Go (ZB551KL)",
+    "sub_category": "mobile",
+    "price": "₹33117",
+    "category": "Electronics",
+    "id": 145,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone Go (ZB552KL)",
+    "sub_category": "mobile",
+    "price": "₹19516",
+    "category": "Electronics",
+    "id": 146,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone Go (ZB690KG)",
+    "sub_category": "mobile",
+    "price": "₹20093",
+    "category": "Electronics",
+    "id": 147,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone Go (ZC451TG)",
+    "sub_category": "mobile",
+    "price": "₹43668",
+    "category": "Electronics",
+    "id": 148,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone Go (ZC500TG)",
+    "sub_category": "mobile",
+    "price": "₹13464",
+    "category": "Electronics",
+    "id": 149,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone Lite L1 (G553KL)",
+    "sub_category": "mobile",
+    "price": "₹46848",
+    "category": "Electronics",
+    "id": 150,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone Lite L1 (ZA551KL) / ZenFone Live L1/L2 (ZA550KL)",
+    "sub_category": "mobile",
+    "price": "₹14693",
+    "category": "Electronics",
+    "id": 151,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone Live (ZB501KL)",
+    "sub_category": "mobile",
+    "price": "₹21835",
+    "category": "Electronics",
+    "id": 152,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone Live L1 (G552KL)",
+    "sub_category": "mobile",
+    "price": "₹38952",
+    "category": "Electronics",
+    "id": 153,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone Live L1 (ZA550KL)",
+    "sub_category": "mobile",
+    "price": "₹33217",
+    "category": "Electronics",
+    "id": 154,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone Live Plus (ZB553KL)",
+    "sub_category": "mobile",
+    "price": "₹25163",
+    "category": "Electronics",
+    "id": 155,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone Max (ZC550KL)",
+    "sub_category": "mobile",
+    "price": "₹8699",
+    "category": "Electronics",
+    "id": 156,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone Max M1 (ZB556KL) / ZenFone Max M1/M2/M3 (ZB555KL)",
+    "sub_category": "mobile",
+    "price": "₹9748",
+    "category": "Electronics",
+    "id": 157,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone Max M2 (ZB633KL) (WW) / Max M2 (ZB632KL) (IN)",
+    "sub_category": "mobile",
+    "price": "₹49633",
+    "category": "Electronics",
+    "id": 158,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone Max Plus M1 (ZB570TL)",
+    "sub_category": "mobile",
+    "price": "₹7429",
+    "category": "Electronics",
+    "id": 159,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone Max Plus M2 (ZB634KL)",
+    "sub_category": "mobile",
+    "price": "₹15378",
+    "category": "Electronics",
+    "id": 160,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone Max Pro M1 (ZB602KL) (WW) / Max Pro M1 (ZB601KL) (IN)",
+    "sub_category": "mobile",
+    "price": "₹28021",
+    "category": "Electronics",
+    "id": 161,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone Max Pro M2 (ZB631KL) (WW) / Max Pro M2 (ZB630KL) (IN)",
+    "sub_category": "mobile",
+    "price": "₹36250",
+    "category": "Electronics",
+    "id": 162,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone Max Shot (ZB634KL)",
+    "sub_category": "mobile",
+    "price": "₹6333",
+    "category": "Electronics",
+    "id": 163,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone Selfie (ZD551KL)",
+    "sub_category": "mobile",
+    "price": "₹47372",
+    "category": "Electronics",
+    "id": 164,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone V",
+    "sub_category": "mobile",
+    "price": "₹22290",
+    "category": "Electronics",
+    "id": 165,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone V Live",
+    "sub_category": "mobile",
+    "price": "₹11246",
+    "category": "Electronics",
+    "id": 166,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenFone Zoom (ZX551ML)",
+    "sub_category": "mobile",
+    "price": "₹48307",
+    "category": "Electronics",
+    "id": 167,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenPad 10 (Z300C)",
+    "sub_category": "tab",
+    "price": "₹20291",
+    "category": "Electronics",
+    "id": 168,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenPad 10 (Z300CG)",
+    "sub_category": "tab",
+    "price": "₹21868",
+    "category": "Electronics",
+    "id": 169,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenPad 10 (Z300CL)",
+    "sub_category": "tab",
+    "price": "₹29548",
+    "category": "Electronics",
+    "id": 170,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenPad 10 (Z300M)",
+    "sub_category": "tab",
+    "price": "₹49086",
+    "category": "Electronics",
+    "id": 171,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenPad 10 (Z301M)",
+    "sub_category": "tab",
+    "price": "₹37799",
+    "category": "Electronics",
+    "id": 172,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenPad 10 (Z301MF)",
+    "sub_category": "tab",
+    "price": "₹29957",
+    "category": "Electronics",
+    "id": 173,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenPad 10 (Z301MFL)",
+    "sub_category": "tab",
+    "price": "₹44742",
+    "category": "Electronics",
+    "id": 174,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenPad 10 (Z301ML)",
+    "sub_category": "tab",
+    "price": "₹26813",
+    "category": "Electronics",
+    "id": 175,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenPad 3 8.0",
+    "sub_category": "tab",
+    "price": "₹31016",
+    "category": "Electronics",
+    "id": 176,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenPad 3 8.0 (Z581KL)",
+    "sub_category": "tab",
+    "price": "₹31999",
+    "category": "Electronics",
+    "id": 177,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenPad 3S 10 (Z500M)",
+    "sub_category": "tab",
+    "price": "₹34008",
+    "category": "Electronics",
+    "id": 178,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenPad 3S 10 LTE (Z500KL)",
+    "sub_category": "tab",
+    "price": "₹19900",
+    "category": "Electronics",
+    "id": 179,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenPad 7.0 (Z370C)",
+    "sub_category": "tab",
+    "price": "₹44237",
+    "category": "Electronics",
+    "id": 180,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenPad 7.0 (Z370CG)",
+    "sub_category": "tab",
+    "price": "₹43559",
+    "category": "Electronics",
+    "id": 181,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenPad 7.0 (Z370KL)",
+    "sub_category": "tab",
+    "price": "₹47201",
+    "category": "Electronics",
+    "id": 182,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenPad 8.0 (Z380KL)",
+    "sub_category": "tab",
+    "price": "₹17493",
+    "category": "Electronics",
+    "id": 183,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenPad 8.0 (Z380M)",
+    "sub_category": "tab",
+    "price": "₹47407",
+    "category": "Electronics",
+    "id": 184,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenPad C 7.0",
+    "sub_category": "tab",
+    "price": "₹10757",
+    "category": "Electronics",
+    "id": 185,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenPad C 7.0 (Z170C)",
+    "sub_category": "tab",
+    "price": "₹39555",
+    "category": "Electronics",
+    "id": 186,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenPad C 7.0 (Z170CG)",
+    "sub_category": "tab",
+    "price": "₹44035",
+    "category": "Electronics",
+    "id": 187,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenPad C 7.0 (Z170MG)",
+    "sub_category": "tab",
+    "price": "₹11492",
+    "category": "Electronics",
+    "id": 188,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenPad S 8.0 (Z580C)",
+    "sub_category": "tab",
+    "price": "₹32134",
+    "category": "Electronics",
+    "id": 189,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenPad S 8.0 (Z580CA)",
+    "sub_category": "tab",
+    "price": "₹10199",
+    "category": "Electronics",
+    "id": 190,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenPad Z10",
+    "sub_category": "tab",
+    "price": "₹43977",
+    "category": "Electronics",
+    "id": 191,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenPad Z8",
+    "sub_category": "tab",
+    "price": "₹11998",
+    "category": "Electronics",
+    "id": 192,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenPad Z8s",
+    "sub_category": "tab",
+    "price": "₹37842",
+    "category": "Electronics",
+    "id": 193,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenPadC 7.0 (Z170MG)",
+    "sub_category": "tab",
+    "price": "₹31829",
+    "category": "Electronics",
+    "id": 194,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenWatch",
+    "sub_category": "mobile",
+    "price": "₹19259",
+    "category": "Electronics",
+    "id": 195,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenWatch 2",
+    "sub_category": "mobile",
+    "price": "₹48680",
+    "category": "Electronics",
+    "id": 196,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "ZenWatch 3",
+    "sub_category": "mobile",
+    "price": "₹10292",
+    "category": "Electronics",
+    "id": 197,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Zenbo",
+    "sub_category": "mobile",
+    "price": "₹44704",
+    "category": "Electronics",
+    "id": 198,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Zenbo Qrobot",
+    "sub_category": "mobile",
+    "price": "₹18334",
+    "category": "Electronics",
+    "id": 199,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Zenfone Go (ASUS_X00BD)",
+    "sub_category": "mobile",
+    "price": "₹16827",
+    "category": "Electronics",
+    "id": 200,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "Zenpad 8.0 (Z380C)",
+    "sub_category": "tab",
+    "price": "₹10965",
+    "category": "Electronics",
+    "id": 201,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "飛뿯붿 (T500KLC)",
+    "sub_category": "mobile",
+    "price": "₹34538",
+    "category": "Electronics",
+    "id": 202,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "飛뿯붿 (T500TLT)",
+    "sub_category": "mobile",
+    "price": "₹33354",
+    "category": "Electronics",
+    "id": 203,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "飛뿯붿 5000 (T551TLC)",
+    "sub_category": "mobile",
+    "price": "₹24714",
+    "category": "Electronics",
+    "id": 204,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Asus",
+    "product_name": "飛뿯붿2 Plus (T550KLC)",
+    "sub_category": "mobile",
+    "price": "₹16528",
+    "category": "Electronics",
+    "id": 205,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "BLUESTAR",
+    "product_name": "Plus",
+    "sub_category": "mobile",
+    "price": "₹48882",
+    "category": "Electronics",
+    "id": 206,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "HP",
+    "product_name": "10",
+    "sub_category": "mobile",
+    "price": "₹36064",
+    "category": "Electronics",
+    "id": 207,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "HP",
+    "product_name": "7 G2",
+    "sub_category": "mobile",
+    "price": "₹8026",
+    "category": "Electronics",
+    "id": 208,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "HP",
+    "product_name": "7 Plus",
+    "sub_category": "mobile",
+    "price": "₹28941",
+    "category": "Electronics",
+    "id": 209,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "HP",
+    "product_name": "7 Plus G2",
+    "sub_category": "mobile",
+    "price": "₹41997",
+    "category": "Electronics",
+    "id": 210,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "HP",
+    "product_name": "7 Tablet",
+    "sub_category": "tab",
+    "price": "₹31965",
+    "category": "Electronics",
+    "id": 211,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "HP",
+    "product_name": "7 Voice Tab",
+    "sub_category": "tab",
+    "price": "₹43905",
+    "category": "Electronics",
+    "id": 212,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "HP",
+    "product_name": "7 VoiceTab",
+    "sub_category": "tab",
+    "price": "₹35077",
+    "category": "Electronics",
+    "id": 213,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "HP",
+    "product_name": "7.1",
+    "sub_category": "mobile",
+    "price": "₹8837",
+    "category": "Electronics",
+    "id": 214,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "HP",
+    "product_name": "8",
+    "sub_category": "mobile",
+    "price": "₹28157",
+    "category": "Electronics",
+    "id": 215,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "HP",
+    "product_name": "8 G2",
+    "sub_category": "mobile",
+    "price": "₹45384",
+    "category": "Electronics",
+    "id": 216,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "HP",
+    "product_name": "Bonsai 10 HD",
+    "sub_category": "mobile",
+    "price": "₹34459",
+    "category": "Electronics",
+    "id": 217,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "HP",
+    "product_name": "Chromebook x2",
+    "sub_category": "laptop",
+    "price": "₹29807",
+    "category": "Electronics",
+    "id": 218,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "HP",
+    "product_name": "Chromebook x360 11 G1 EE",
+    "sub_category": "laptop",
+    "price": "₹36821",
+    "category": "Electronics",
+    "id": 219,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "HP",
+    "product_name": "HP BRIDGE",
+    "sub_category": "mobile",
+    "price": "₹25326",
+    "category": "Electronics",
+    "id": 220,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "HP",
+    "product_name": "HP Chromebook 11 G5 / 11-vxxx",
+    "sub_category": "laptop",
+    "price": "₹37239",
+    "category": "Electronics",
+    "id": 221,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "HP",
+    "product_name": "HP Chromebook 13 G1",
+    "sub_category": "laptop",
+    "price": "₹10825",
+    "category": "Electronics",
+    "id": 222,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "HP",
+    "product_name": "Pro 8 Tablet with Voice",
+    "sub_category": "tab",
+    "price": "₹47511",
+    "category": "Electronics",
+    "id": 223,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "HP",
+    "product_name": "Pro Slate 10 EE G1",
+    "sub_category": "mobile",
+    "price": "₹36885",
+    "category": "Electronics",
+    "id": 224,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "HP",
+    "product_name": "Pro Slate 12",
+    "sub_category": "tab",
+    "price": "₹27969",
+    "category": "Electronics",
+    "id": 225,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "HP",
+    "product_name": "Pro Slate 8",
+    "sub_category": "tab",
+    "price": "₹11891",
+    "category": "Electronics",
+    "id": 226,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "HP",
+    "product_name": "Slate 10 HD",
+    "sub_category": "tab",
+    "price": "₹28191",
+    "category": "Electronics",
+    "id": 227,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "HP",
+    "product_name": "Slate 10 Plus",
+    "sub_category": "tab",
+    "price": "₹34372",
+    "category": "Electronics",
+    "id": 228,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "HP",
+    "product_name": "Slate 17",
+    "sub_category": "tab",
+    "price": "₹32567",
+    "category": "Electronics",
+    "id": 229,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "HP",
+    "product_name": "Slate 21 Pro",
+    "sub_category": "tab",
+    "price": "₹49911",
+    "category": "Electronics",
+    "id": 230,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "HP",
+    "product_name": "Slate 6 Voice Tab",
+    "sub_category": "tab",
+    "price": "₹47846",
+    "category": "Electronics",
+    "id": 231,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "HP",
+    "product_name": "Slate 6 Voice Tab II",
+    "sub_category": "tab",
+    "price": "₹26845",
+    "category": "Electronics",
+    "id": 232,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "HP",
+    "product_name": "Slate 6 VoiceTab Plus",
+    "sub_category": "tab",
+    "price": "₹22754",
+    "category": "Electronics",
+    "id": 233,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "HP",
+    "product_name": "Slate 7",
+    "sub_category": "tab",
+    "price": "₹35454",
+    "category": "Electronics",
+    "id": 234,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "HP",
+    "product_name": "Slate 7 Beats Special Edition",
+    "sub_category": "tab",
+    "price": "₹40990",
+    "category": "Electronics",
+    "id": 235,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "HP",
+    "product_name": "Slate 7 Extreme",
+    "sub_category": "tab",
+    "price": "₹15121",
+    "category": "Electronics",
+    "id": 236,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "HP",
+    "product_name": "Slate 7 HD",
+    "sub_category": "tab",
+    "price": "₹45555",
+    "category": "Electronics",
+    "id": 237,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "HP",
+    "product_name": "Slate 7 Voice Tab",
+    "sub_category": "tab",
+    "price": "₹43935",
+    "category": "Electronics",
+    "id": 238,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "HP",
+    "product_name": "Slate 7 VoiceTab Ultra",
+    "sub_category": "tab",
+    "price": "₹7316",
+    "category": "Electronics",
+    "id": 239,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "HP",
+    "product_name": "Slate 8 Plus",
+    "sub_category": "tab",
+    "price": "₹21595",
+    "category": "Electronics",
+    "id": 240,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "HP",
+    "product_name": "Slate 8 Pro",
+    "sub_category": "tab",
+    "price": "₹47594",
+    "category": "Electronics",
+    "id": 241,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "HP",
+    "product_name": "Slate21",
+    "sub_category": "tab",
+    "price": "₹24320",
+    "category": "Electronics",
+    "id": 242,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "HP",
+    "product_name": "Slate7 Plus",
+    "sub_category": "tab",
+    "price": "₹38202",
+    "category": "Electronics",
+    "id": 243,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "HP",
+    "product_name": "Slate8 Pro",
+    "sub_category": "tab",
+    "price": "₹17432",
+    "category": "Electronics",
+    "id": 244,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "HP",
+    "product_name": "SlateBook 10 x2 PC",
+    "sub_category": "tab",
+    "price": "₹22269",
+    "category": "Electronics",
+    "id": 245,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "HP",
+    "product_name": "SlateBook 14",
+    "sub_category": "tab",
+    "price": "₹19588",
+    "category": "Electronics",
+    "id": 246,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "HP",
+    "product_name": "Tablet 10",
+    "sub_category": "tab",
+    "price": "₹47394",
+    "category": "Electronics",
+    "id": 247,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "HP",
+    "product_name": "Voice Tab 7",
+    "sub_category": "tab",
+    "price": "₹13136",
+    "category": "Electronics",
+    "id": 248,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "HTC One X9 dual sim",
+    "sub_category": "mobile",
+    "price": "₹19114",
+    "category": "Electronics",
+    "id": 249,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "ADR6325",
+    "sub_category": "mobile",
+    "price": "₹40379",
+    "category": "Electronics",
+    "id": 250,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "0P3P5",
+    "sub_category": "mobile",
+    "price": "₹13545",
+    "category": "Electronics",
+    "id": 251,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "0P4E2",
+    "sub_category": "mobile",
+    "price": "₹6183",
+    "category": "Electronics",
+    "id": 252,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "0P9C8",
+    "sub_category": "mobile",
+    "price": "₹35738",
+    "category": "Electronics",
+    "id": 253,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "0PFJ50",
+    "sub_category": "mobile",
+    "price": "₹10442",
+    "category": "Electronics",
+    "id": 254,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "0PK72",
+    "sub_category": "mobile",
+    "price": "₹12273",
+    "category": "Electronics",
+    "id": 255,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "10 evo",
+    "sub_category": "mobile",
+    "price": "₹20511",
+    "category": "Electronics",
+    "id": 256,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "5060 dual sim",
+    "sub_category": "mobile",
+    "price": "₹20280",
+    "category": "Electronics",
+    "id": 257,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "601e",
+    "sub_category": "mobile",
+    "price": "₹26157",
+    "category": "Electronics",
+    "id": 258,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "606w",
+    "sub_category": "mobile",
+    "price": "₹28699",
+    "category": "Electronics",
+    "id": 259,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "608t",
+    "sub_category": "mobile",
+    "price": "₹23182",
+    "category": "Electronics",
+    "id": 260,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "609d",
+    "sub_category": "mobile",
+    "price": "₹24726",
+    "category": "Electronics",
+    "id": 261,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "6160",
+    "sub_category": "mobile",
+    "price": "₹26389",
+    "category": "Electronics",
+    "id": 262,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "619d",
+    "sub_category": "mobile",
+    "price": "₹19335",
+    "category": "Electronics",
+    "id": 263,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "7060",
+    "sub_category": "mobile",
+    "price": "₹24308",
+    "category": "Electronics",
+    "id": 264,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "710C",
+    "sub_category": "mobile",
+    "price": "₹30866",
+    "category": "Electronics",
+    "id": 265,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "802d",
+    "sub_category": "mobile",
+    "price": "₹25676",
+    "category": "Electronics",
+    "id": 266,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "803e",
+    "sub_category": "mobile",
+    "price": "₹48732",
+    "category": "Electronics",
+    "id": 267,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "8060",
+    "sub_category": "mobile",
+    "price": "₹8653",
+    "category": "Electronics",
+    "id": 268,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "8088",
+    "sub_category": "mobile",
+    "price": "₹35121",
+    "category": "Electronics",
+    "id": 269,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "809d",
+    "sub_category": "mobile",
+    "price": "₹44581",
+    "category": "Electronics",
+    "id": 270,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "8160",
+    "sub_category": "mobile",
+    "price": "₹45426",
+    "category": "Electronics",
+    "id": 271,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "9060",
+    "sub_category": "mobile",
+    "price": "₹25794",
+    "category": "Electronics",
+    "id": 272,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "9088",
+    "sub_category": "mobile",
+    "price": "₹38301",
+    "category": "Electronics",
+    "id": 273,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "919d",
+    "sub_category": "mobile",
+    "price": "₹33741",
+    "category": "Electronics",
+    "id": 274,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "A510c",
+    "sub_category": "mobile",
+    "price": "₹20981",
+    "category": "Electronics",
+    "id": 275,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "ADR6330VW",
+    "sub_category": "mobile",
+    "price": "₹44424",
+    "category": "Electronics",
+    "id": 276,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "ADR6425LVW",
+    "sub_category": "mobile",
+    "price": "₹26635",
+    "category": "Electronics",
+    "id": 277,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "AT&T HTC One X+",
+    "sub_category": "mobile",
+    "price": "₹5501",
+    "category": "Electronics",
+    "id": 278,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "Amaze_4G",
+    "sub_category": "mobile",
+    "price": "₹22187",
+    "category": "Electronics",
+    "id": 279,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "Aria",
+    "sub_category": "mobile",
+    "price": "₹46684",
+    "category": "Electronics",
+    "id": 280,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "Butterfly",
+    "sub_category": "mobile",
+    "price": "₹23594",
+    "category": "Electronics",
+    "id": 281,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "Butterfly 2",
+    "sub_category": "mobile",
+    "price": "₹49942",
+    "category": "Electronics",
+    "id": 282,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "Butterfly 3",
+    "sub_category": "mobile",
+    "price": "₹20394",
+    "category": "Electronics",
+    "id": 283,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "Butterfly S",
+    "sub_category": "mobile",
+    "price": "₹45891",
+    "category": "Electronics",
+    "id": 284,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "Butterfly s 9060",
+    "sub_category": "mobile",
+    "price": "₹23718",
+    "category": "Electronics",
+    "id": 285,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "Chacha",
+    "sub_category": "mobile",
+    "price": "₹42433",
+    "category": "Electronics",
+    "id": 286,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "D10w",
+    "sub_category": "mobile",
+    "price": "₹26835",
+    "category": "Electronics",
+    "id": 287,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "D316d",
+    "sub_category": "mobile",
+    "price": "₹46918",
+    "category": "Electronics",
+    "id": 288,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "D610t",
+    "sub_category": "mobile",
+    "price": "₹20697",
+    "category": "Electronics",
+    "id": 289,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "D616t",
+    "sub_category": "mobile",
+    "price": "₹44738",
+    "category": "Electronics",
+    "id": 290,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "D626q",
+    "sub_category": "mobile",
+    "price": "₹18958",
+    "category": "Electronics",
+    "id": 291,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "D626t",
+    "sub_category": "mobile",
+    "price": "₹47058",
+    "category": "Electronics",
+    "id": 292,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "D628u",
+    "sub_category": "mobile",
+    "price": "₹36365",
+    "category": "Electronics",
+    "id": 293,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "D728w",
+    "sub_category": "mobile",
+    "price": "₹20825",
+    "category": "Electronics",
+    "id": 294,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "D728x",
+    "sub_category": "mobile",
+    "price": "₹43976",
+    "category": "Electronics",
+    "id": 295,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "D816d",
+    "sub_category": "mobile",
+    "price": "₹34462",
+    "category": "Electronics",
+    "id": 296,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "D816e",
+    "sub_category": "mobile",
+    "price": "₹19510",
+    "category": "Electronics",
+    "id": 297,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "D816h",
+    "sub_category": "mobile",
+    "price": "₹13070",
+    "category": "Electronics",
+    "id": 298,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "D816t",
+    "sub_category": "mobile",
+    "price": "₹49556",
+    "category": "Electronics",
+    "id": 299,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "D816v",
+    "sub_category": "mobile",
+    "price": "₹21006",
+    "category": "Electronics",
+    "id": 300,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "D816w",
+    "sub_category": "mobile",
+    "price": "₹10395",
+    "category": "Electronics",
+    "id": 301,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "D820 Mini",
+    "sub_category": "mobile",
+    "price": "₹7073",
+    "category": "Electronics",
+    "id": 302,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "D820f",
+    "sub_category": "mobile",
+    "price": "₹35789",
+    "category": "Electronics",
+    "id": 303,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "D820t",
+    "sub_category": "mobile",
+    "price": "₹29523",
+    "category": "Electronics",
+    "id": 304,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "D820u",
+    "sub_category": "mobile",
+    "price": "₹26638",
+    "category": "Electronics",
+    "id": 305,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "D820ys",
+    "sub_category": "mobile",
+    "price": "₹34926",
+    "category": "Electronics",
+    "id": 306,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "D826t",
+    "sub_category": "mobile",
+    "price": "₹13752",
+    "category": "Electronics",
+    "id": 307,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "DROID DNA",
+    "sub_category": "mobile",
+    "price": "₹48481",
+    "category": "Electronics",
+    "id": 308,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "DROID Incredible 4G LTE",
+    "sub_category": "mobile",
+    "price": "₹16285",
+    "category": "Electronics",
+    "id": 309,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "Desire",
+    "sub_category": "mobile",
+    "price": "₹15707",
+    "category": "Electronics",
+    "id": 310,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "Desire 10 compact",
+    "sub_category": "mobile",
+    "price": "₹5887",
+    "category": "Electronics",
+    "id": 311,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "Desire 10 lifestyle",
+    "sub_category": "mobile",
+    "price": "₹43911",
+    "category": "Electronics",
+    "id": 312,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "Desire 10 pro",
+    "sub_category": "mobile",
+    "price": "₹29968",
+    "category": "Electronics",
+    "id": 313,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "Desire 12",
+    "sub_category": "mobile",
+    "price": "₹49686",
+    "category": "Electronics",
+    "id": 314,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "Desire 12+",
+    "sub_category": "mobile",
+    "price": "₹42963",
+    "category": "Electronics",
+    "id": 315,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "Desire 12s",
+    "sub_category": "mobile",
+    "price": "₹13029",
+    "category": "Electronics",
+    "id": 316,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "Desire 20 Pro",
+    "sub_category": "mobile",
+    "price": "₹46436",
+    "category": "Electronics",
+    "id": 317,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "Desire 200",
+    "sub_category": "mobile",
+    "price": "₹9524",
+    "category": "Electronics",
+    "id": 318,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "HTC",
+    "product_name": "Desire 210 dual sim",
+    "sub_category": "mobile",
+    "price": "₹46323",
+    "category": "Electronics",
+    "id": 319,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy J1(2016)",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹36675",
+    "id": 320,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy J2",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹45362",
+    "id": 321,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy J2 Core",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹11605",
+    "id": 322,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy J2 Prime",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹15042",
+    "id": 323,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy J2 Pro",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹7059",
+    "id": 324,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy J2 Pure",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹18216",
+    "id": 325,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Win Duos",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹42019",
+    "id": 326,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Win Pro",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹19134",
+    "id": 327,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Win2",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹12082",
+    "id": 328,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy XCover 4s",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹16067",
+    "id": 329,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy XCover 5",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹42313",
+    "id": 330,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy XCover Field Pro",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹41948",
+    "id": 331,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy XCover FieldPro",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹35331",
+    "id": 332,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy XCover Filed Pro",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹30540",
+    "id": 333,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy XCover Pro",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹35786",
+    "id": 334,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy XCover4",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹21501",
+    "id": 335,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Xcover",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹35724",
+    "id": 336,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Xcover2",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹26926",
+    "id": 337,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Xcover3",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹39352",
+    "id": 338,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Xcover4",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹43449",
+    "id": 339,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Y",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹9373",
+    "id": 340,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Y Duos",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹21050",
+    "id": 341,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Y Plus",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹5698",
+    "id": 342,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Y Pop",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹8946",
+    "id": 343,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Y TV",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹5942",
+    "id": 344,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Y Pro",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹13773",
+    "id": 345,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Y Pro Duos",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹37167",
+    "id": 346,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy player 70 Plus",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹24093",
+    "id": 347,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy view",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹30510",
+    "id": 348,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy win",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹28985",
+    "id": 349,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy-A9(2016)",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹41905",
+    "id": 350,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Garda",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹28402",
+    "id": 351,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Gear Live",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹17956",
+    "id": 352,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Gem",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹24633",
+    "id": 353,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Gizmo Tablet",
+    "category": "Electronics",
+    "sub_category": "tab",
+    "price": "₹17816",
+    "id": 354,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Hennessy",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹40414",
+    "id": 355,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Homesync",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹16086",
+    "id": 356,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "IceTouch",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹21745",
+    "id": 357,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Illusion",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹38760",
+    "id": 358,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Infuse",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹20679",
+    "id": 359,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "J1 Mini Prime",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹11909",
+    "id": 360,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Moment",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹26716",
+    "id": 361,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Montblanc",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹5712",
+    "id": 362,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Nexus 10",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹42880",
+    "id": 363,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Nexus S",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹41375",
+    "id": 364,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "ProXpress M4580",
+    "sub_category": "mobile",
+    "price": "₹29802",
+    "category": "Electronics",
+    "id": 365,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Replenish",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹18784",
+    "id": 366,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Repp",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹49343",
+    "id": 367,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Roy VE DTV",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹35727",
+    "id": 368,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Rugby Smart",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹22331",
+    "id": 369,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "SM-G6200",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹17341",
+    "id": 370,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "SM-G9198",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹10990",
+    "id": 371,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "SM-J260A",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹22759",
+    "id": 372,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "SM-J336AZ",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹21185",
+    "id": 373,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "SM-J337A",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹18424",
+    "id": 374,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "SM-J337AZ",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹28718",
+    "id": 375,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "SM-T230NZ",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹13278",
+    "id": 376,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "SM-W2018",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹26468",
+    "id": 377,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Sidekick",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹7760",
+    "id": 378,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Transfix",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹27972",
+    "id": 379,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Transform",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹30078",
+    "id": 380,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Transform Ultra",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹42692",
+    "id": 381,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "VinsQ",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹8384",
+    "id": 382,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "VinsQ(M910)",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹10307",
+    "id": 383,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "W2016",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹43753",
+    "id": 384,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "W2017",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹18550",
+    "id": 385,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "olleh",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹38055",
+    "id": 386,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "三星 W21 5G",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹21894",
+    "id": 387,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "三星W20",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹34923",
+    "id": 388,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "뿯붿世뿯施붿8",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹39837",
+    "id": 389,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A7(2016)",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹18703",
+    "id": 390,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Absolute",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹29337",
+    "id": 391,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Acclaim",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹42697",
+    "id": 392,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Admire",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹12938",
+    "id": 393,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Amazing",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹25579",
+    "id": 394,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Baffin",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹47210",
+    "id": 395,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Captivate Glide",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹47893",
+    "id": 396,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "China Telecom",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹30648",
+    "id": 397,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Chromebook 3",
+    "category": "Electronics",
+    "sub_category": "laptop",
+    "price": "₹27878",
+    "id": 398,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Chromebook Plus",
+    "category": "Electronics",
+    "sub_category": "laptop",
+    "price": "₹43840",
+    "id": 399,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Chromebook Plus (V2)",
+    "category": "Electronics",
+    "sub_category": "laptop",
+    "price": "₹18752",
+    "id": 400,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Chromebook Pro",
+    "category": "Electronics",
+    "sub_category": "laptop",
+    "price": "₹37494",
+    "id": 401,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Conquer",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹36504",
+    "id": 402,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "DoubleTime",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹7013",
+    "id": 403,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Droid Charge",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹24384",
+    "id": 404,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Europa",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹42878",
+    "id": 405,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Exhibit",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹31319",
+    "id": 406,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "GALAXY Camera",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹46248",
+    "id": 407,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy (China)",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹5370",
+    "id": 408,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy 070",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹5784",
+    "id": 409,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹38696",
+    "id": 410,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A Quantum",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹47850",
+    "id": 411,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A01",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹21784",
+    "id": 412,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A01 Core",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹27677",
+    "id": 413,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A02",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹46105",
+    "id": 414,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A02s",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹36780",
+    "id": 415,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A10",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹6884",
+    "id": 416,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A10e",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹11510",
+    "id": 417,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A10s",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹27426",
+    "id": 418,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A11",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹22200",
+    "id": 419,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A12",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹27337",
+    "id": 420,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A2 Core",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹19522",
+    "id": 421,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A20",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹36477",
+    "id": 422,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A20e",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹30080",
+    "id": 423,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A20s",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹37413",
+    "id": 424,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A21",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹30509",
+    "id": 425,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A21s",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹11574",
+    "id": 426,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A22s 5G",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹44918",
+    "id": 427,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A3",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹31332",
+    "id": 428,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A3 (2017)",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹12174",
+    "id": 429,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A3 Core",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹31456",
+    "id": 430,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A3(2016)",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹20721",
+    "id": 431,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A3(2017)",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹17708",
+    "id": 432,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A30",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹27462",
+    "id": 433,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A30s",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹22982",
+    "id": 434,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A31",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹27037",
+    "id": 435,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A32",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹6546",
+    "id": 436,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A32 5G",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹26105",
+    "id": 437,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A40",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹48838",
+    "id": 438,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A40s",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹30519",
+    "id": 439,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A41",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹11717",
+    "id": 440,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A42 5G",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹22466",
+    "id": 441,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A5",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹17191",
+    "id": 442,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A5 (2016)",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹15730",
+    "id": 443,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A5(2016)",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹12189",
+    "id": 444,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A5(2017)",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹33516",
+    "id": 445,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A50",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹15031",
+    "id": 446,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A50s",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹36023",
+    "id": 447,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A51",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹25406",
+    "id": 448,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A51 5G",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹29552",
+    "id": 449,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A52",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹41302",
+    "id": 450,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A52 5G",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹46605",
+    "id": 451,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A6",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹36716",
+    "id": 452,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A6+",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹41389",
+    "id": 453,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A60",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹33911",
+    "id": 454,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A7",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹35660",
+    "id": 455,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A7 (2018)",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹35178",
+    "id": 456,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A7(2017)",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹27542",
+    "id": 457,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A70",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹31888",
+    "id": 458,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A70s",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹20436",
+    "id": 459,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A71",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹21181",
+    "id": 460,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A71 5G",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹23252",
+    "id": 461,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A72",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹21462",
+    "id": 462,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A8",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹25523",
+    "id": 463,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A8 Star",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹28282",
+    "id": 464,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A8(2016)",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹15624",
+    "id": 465,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A8(2018)",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹5257",
+    "id": 466,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A8+(2018)",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹5226",
+    "id": 467,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A80",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹42599",
+    "id": 468,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A8s",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹19891",
+    "id": 469,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A9 (2018)",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹8728",
+    "id": 470,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A9 2018",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹10514",
+    "id": 471,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A9 Pro",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹14692",
+    "id": 472,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A9 Star",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹27814",
+    "id": 473,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A9 Star Lite",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹18865",
+    "id": 474,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A9(2016)",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹47519",
+    "id": 475,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A90 5G",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹9994",
+    "id": 476,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy A9s",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹24752",
+    "id": 477,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Ace",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹36095",
+    "id": 478,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Ace 4",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹35781",
+    "id": 479,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Ace 4 Lite",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹44863",
+    "id": 480,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Ace Advance",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹17888",
+    "id": 481,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Ace Duos",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹9440",
+    "id": 482,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Ace Plus",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹23873",
+    "id": 483,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Ace Q",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹12502",
+    "id": 484,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Ace Style",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹10426",
+    "id": 485,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Ace2",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹36453",
+    "id": 486,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Ace2 X",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹39695",
+    "id": 487,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Ace3",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹36516",
+    "id": 488,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Ace3 Duos",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹17702",
+    "id": 489,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Ace3 Duos TV",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹34618",
+    "id": 490,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Ace4",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹5886",
+    "id": 491,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Ace4 Lite",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹32613",
+    "id": 492,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Ace4 Neo",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹40741",
+    "id": 493,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Active neo",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹16554",
+    "id": 494,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Admire",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹15352",
+    "id": 495,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Admire 2",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹48968",
+    "id": 496,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Alpha",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹45489",
+    "id": 497,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Amp",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹49271",
+    "id": 498,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Apollo",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹31913",
+    "id": 499,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Appeal",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹39606",
+    "id": 500,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Attain",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹47670",
+    "id": 501,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Avant",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹27604",
+    "id": 502,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Axiom",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹5849",
+    "id": 503,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Beam",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹46757",
+    "id": 504,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy C5",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹20455",
+    "id": 505,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy C5 Pro",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹38056",
+    "id": 506,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy C7",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹17741",
+    "id": 507,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy C7 Pro",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹22878",
+    "id": 508,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy C8",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹16296",
+    "id": 509,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy C9 Pro",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹9296",
+    "id": 510,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Camera",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹20914",
+    "id": 511,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Camera 2",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹43264",
+    "id": 512,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Centura",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹42661",
+    "id": 513,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Chat",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹9416",
+    "id": 514,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Core",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹5038",
+    "id": 515,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Core 2",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹22950",
+    "id": 516,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Core Advance",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹14265",
+    "id": 517,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Core LTE",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹45578",
+    "id": 518,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Core Lite",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹26288",
+    "id": 519,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Core Max",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹20762",
+    "id": 520,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Core Max Duos",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹5472",
+    "id": 521,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Core Plus",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹26034",
+    "id": 522,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Core Prime",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹13063",
+    "id": 523,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Core Safe",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹8831",
+    "id": 524,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Core2",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹12394",
+    "id": 525,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Discover",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹30495",
+    "id": 526,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Duos",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹27557",
+    "id": 527,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy E5",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹24240",
+    "id": 528,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy E7",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹41688",
+    "id": 529,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Elite",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹16177",
+    "id": 530,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Europa",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹36863",
+    "id": 531,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Exhibit",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹12856",
+    "id": 532,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Exhibit2",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹41838",
+    "id": 533,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Exhilarate",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹48581",
+    "id": 534,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Express",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹34261",
+    "id": 535,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Express2",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹19935",
+    "id": 536,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy F02s",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹23410",
+    "id": 537,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy F12",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹35613",
+    "id": 538,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy F41",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹18260",
+    "id": 539,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy F52 5G",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹8255",
+    "id": 540,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy F62",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹49102",
+    "id": 541,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Fame",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹48137",
+    "id": 542,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Fame Lite Duos",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹15906",
+    "id": 543,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Feel",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹25787",
+    "id": 544,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Feel2",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹37650",
+    "id": 545,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Fit",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹22762",
+    "id": 546,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Fold",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹30816",
+    "id": 547,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Fold 5G",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹5657",
+    "id": 548,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Folder",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹27556",
+    "id": 549,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Folder2",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹6987",
+    "id": 550,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Fresh",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹34292",
+    "id": 551,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Gio",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹19051",
+    "id": 552,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Go Prime",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹25138",
+    "id": 553,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Golden",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹19560",
+    "id": 554,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Golden 2",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹40955",
+    "id": 555,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Grand",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹24404",
+    "id": 556,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Grand Duos",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹21607",
+    "id": 557,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Grand Max",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹39937",
+    "id": 558,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Grand Neo",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹9923",
+    "id": 559,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Grand Neo Plus",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹10963",
+    "id": 560,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Grand Neo+",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹21810",
+    "id": 561,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Grand Prime",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹25696",
+    "id": 562,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Grand Prime Plus",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹22354",
+    "id": 563,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Grand Prime Pro",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹22860",
+    "id": 564,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Grand duos",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹13418",
+    "id": 565,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Grand-Max",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹38064",
+    "id": 566,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Grand2",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹23870",
+    "id": 567,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Indulge",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹37820",
+    "id": 568,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Infinite",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹46483",
+    "id": 569,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy J",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹21548",
+    "id": 570,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy J1",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹29271",
+    "id": 571,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy J1 (2016)",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹26232",
+    "id": 572,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy J1 Ace",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹44800",
+    "id": 573,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy J1 Mini",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹10072",
+    "id": 574,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy J1 Mini Prime",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹23901",
+    "id": 575,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Note Edge",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹9892",
+    "id": 576,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Note Fan Edition",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹24648",
+    "id": 577,
+    "camera_resolution": "16MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Note Pro 12.2",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹49042",
+    "id": 578,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Note10",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹38860",
+    "id": 579,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Note3 Neo",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹31426",
+    "id": 580,
+    "camera_resolution": "64MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Note4",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹6007",
+    "id": 581,
+    "camera_resolution": "32MP"
+  },
+  {
+    "brand": "Samsung",
+    "product_name": "Galaxy Young",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹45718",
+    "id": 582,
+    "camera_resolution": "10MP"
+  },
+  {
+    "brand": "Amazon 999",
+    "product_name": "Amazon 123",
+    "category": "Electronics",
+    "sub_category": "mobile",
+    "price": "₹45718",
+    "id": 582,
+    "camera_resolution": "10MP"
+  }
+]
