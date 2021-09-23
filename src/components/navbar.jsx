@@ -30,7 +30,7 @@ function Navbar(props){
 					</div>
 				</div>
 				{/* <button class="btn btn-outline-light navbar-btn" type="submit" onClick={(e)=>{e.preventDefault(); setfilteroptions(!filteroptions)}}>Filters</button> */}
-				<input value={searchBarContent} onChange={(event)=>{setSearchBarContent(event.target.value); props.setSuggestions(true)}} class="nav-search-bar" type="search" placeholder="Search" aria-label="Search"/>
+				<input value={searchBarContent} onChange={(event)=>{setSearchBarContent(event.target.value); props.setSuggestions(true)}} class="nav-search-bar" type="search" placeholder="Search" aria-label="Search" autoFocus/>
 				<button onClick={(e)=>{e.preventDefault(); props.setsearchword(searchBarContent); setSearchBarContent(searchBarContent); props.setSuggestions(false); props.setSearchPage(true)}} class="btn btn-outline-light navbar-search-btn" type="submit">Search</button>
 				{searchBarContent != "" && filteredProducts.length != 0 && props.suggestions ? 
 				<div class="suggestions-div">
@@ -46,9 +46,9 @@ function Navbar(props){
 			{props.authenticated
 			?
 			<div class="navbar-btn-holder">
-				<button type="button" class="btn btn-warning navbar-btn"><img src={ require("../media/shopping-cart.png").default} class="cart-image"/></button>
-				<button type="button" class="btn btn-danger navbar-btn"><img src={ require("../media/emptyheart.png").default} class="cart-image"/></button>
-				<button type="button" class="btn btn-light navbar-btn">Checkout</button>
+				<button type="button" class="btn btn-warning navbar-btn" onClick={(e)=>{e.preventDefault(); props.setshoppingcartmodal(true);}}><img src={ require("../media/shopping-cart.png").default} class="cart-image"/></button>
+				<button type="button" class="btn btn-danger navbar-btn" onClick={(e)=>{e.preventDefault(); props.setwishlistmodal(true);}}><img src={ require("../media/emptyheart.png").default} class="cart-image"/></button>
+				<button type="button" class="btn btn-light navbar-btn" onClick={(e)=>{e.preventDefault(); props.setshoppingcartmodal(true);}}>Checkout</button>
 			</div>
 			:
 			<div class="navbar-btn-holder">

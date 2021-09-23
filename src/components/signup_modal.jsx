@@ -15,13 +15,13 @@ function Signup_modal(props){
                 </div>
                 <div class="modal-body">
                     <div class="login-form">
-                        <input type="email" onChange={(e)=>{setemailcontent(e.target.value)}} class="form-control login-textbox" placeholder="Email" />
+                        <input type="email" onChange={(e)=>{setemailcontent(e.target.value)}} class="form-control login-textbox" placeholder="Email"/>
                         <input type="text" onChange={(e)=>{setusernamecontent(e.target.value)}} class="form-control login-textbox" placeholder="Username" />
                         <input type="password" onChange={(e)=>{setpasswordcontent(e.target.value)}} class="form-control login-textbox" placeholder="Password" />
                     </div>
                 </div>
                 <div class="modal-footer">
-                    <button type="submit" onClick={(e)=>{e.preventDefault(); props.setauthenticated(true); props.setcurrentuser({email:emailcontent, username:usernamecontent, password:password}); props.setsignupmodal(false)}} class="btn" >Sign Up</button>
+                <button type="submit" onClick={(e)=>{e.preventDefault(); props.setcurrentuser({email:emailcontent, username:usernamecontent, password:password}); props.setsignupmodal(false); props.setnoticemessage("Signed Up successfully"); props.setnoticemodal(true)}} class="btn" >Sign Up</button>
                 </div>
 			</div>
 		</div>

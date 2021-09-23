@@ -1,16 +1,36 @@
 import React, { useState } from "react";
 
 function Product_display(props){
-    function handle_add_to_cart_click(){
-        if(!props.authenticated){
-            props.setproductdisplaymodal(false)
+    function handle_add_to_cart_click(productId){
+        if(props.authenticated){
+            let cuser = props.currentuser
+            if(cuser.cart == null){
+                let updatedcart = []
+                updatedcart.push(productId)
+                cuser.cart = updatedcart
+                props.setcurrentuser(cuser)
+            }else{
+                if(!cuser.cart.includes(productId)){
+                    cuser.cart.push(productId)
+                    props.setcurrentuser(cuser)
+                }
+            }
+            props.setnoticemessage("Added to cart successfully!"); props.setnoticemodal(true)
+        }
+        else{
             props.setsignupmodal(true)
         }
-        // props.authenticated ? null : props.setsignupmodal(true)
     }
-    function handle_add_to_wishlist_click(){
-        if(!props.authenticated){
-            props.setsignupmodal(true)
+
+    function render_add_to_cart_button(product){
+        if(props.authenticated){
+            if(props.currentuser.cart != null && props.currentuser.cart.includes(product.id)){
+                return <button class="btn btn-secondary modal-body-btn" onClick={()=>{handle_add_to_cart_click(product.id)}}>Added to cart</button>                
+            }else{
+                return <button class="btn btn-warning modal-body-btn" onClick={()=>{handle_add_to_cart_click(product.id); }}>Add to cart</button>
+            }
+        }else{
+            return <button class="btn btn-warning modal-body-btn" onClick={()=>{handle_add_to_cart_click(product.id)}}>Add to cart</button>
         }
     }
     return <div className="modal__backdrop">
@@ -23,15 +43,19 @@ function Product_display(props){
             </div>
             <div class="display-modal-body">
                 <div class="modal-body-display">
-                    <img src={require('../media/macbook-air.jpg').default} class="product-modal-image"/>
+                    <img src={require(`../media/${props.product.sub_category}.jpg`).default} class="product-modal-image"/>
                     <div class="modal-body-btn-holder">
-                        <div class="btn btn-warning modal-body-btn" onClick={handle_add_to_cart_click}>add to cart</div>
-                        <div class="btn btn-warning modal-body-btn">buy now</div>
+                        {render_add_to_cart_button(props.product)}
+                        <div class="btn btn-warning modal-body-btn" onClick={()=>{handle_add_to_cart_click(props.product.id); props.setshoppingcartmodal(true)}}>buy now</div>
                     </div>
                 </div>
                 <div class="modal-body-info">
                     <div>
                         <p><h3>{props.product.product_name}</h3></p>
+                    </div>
+                    <div>
+                        <div class="modal-info-title">Price</div>
+                        <p>{props.product.price}</p>
                     </div>
                     <div>
                         <div class="modal-info-title">Category</div>
@@ -45,6 +69,11 @@ function Product_display(props){
                         <div class="modal-info-title">Brand</div>
                         <p>{props.product.brand}</p>
                     </div>
+                    {props.product.category == "Electronics" &&
+                    <div>
+                        <div class="modal-info-title">Camera</div>
+                        <p>{props.product.camera_resolution}</p>
+                    </div>}
                     <div>
                         <div class="modal-info-title">Description</div>
                         <p>

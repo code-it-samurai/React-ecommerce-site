@@ -20,6 +20,10 @@ html{
     justify-content: space-between;
     background-color: #126E82;
     padding:1%;
+    position:fixed;
+    width:100%;
+    z-index: 10;
+    height:10vh;
 }
 .logo{
     text-decoration: none;
@@ -52,16 +56,15 @@ html{
     justify-content: center;
 }
 .suggestions-div{
-    width:37%;
+    width:520px;
     height:20vh;
-    margin:auto;
     background-color: white;
-    /* padding:1%; */
-    right:25%;
-    left:25.5%;
+    margin-left: 70px;
+    /* right:25%; */
+    /* left:25.5%; */
     z-index: 5;
-    top:7.7%;
-    position:absolute;
+    /* top:7.7%; */
+    /* position:absolute; */
     overflow-y: scroll;
 }
 .right{
@@ -93,12 +96,21 @@ html{
     background-color: white;
     color: #EFFFFB;
     margin:1%;
+    transition:all 4s;
 }
 .grid-holder{
     /* width:80%; */
     padding:5%;
     width:100%;
-    background-color: #17202a ;
+    background-color: #17202a;
+    overflow-y: scroll;
+    margin-top: 10vh;
+}
+.home-grid-holder{
+    padding:5%;
+    width:100%;
+    background-color: #17202a;
+    overflow-y: scroll;
 }
 .width-80{
     width:80%;
@@ -109,12 +121,18 @@ html{
     border-radius: 10px;
 }
 .product-modal-image{
-    height:175px;
+    height:250px;
     margin-left:auto;
     margin-right:auto;
     margin-top:20px;
     margin-bottom:20px;
     border-radius: 10px;
+    transition: all 1s;
+}
+.product-modal-image:hover{
+    transform: scale(1.5);
+    margin-top: 100px;
+       
 }
 .product-name-price{
     display:flex;
@@ -168,13 +186,12 @@ html{
     /* width:500px; */
     width:20%;
     padding:1%;
+    padding-top:10vh;
+    overflow-y: scroll;
 }
 .search-page{
     display: flex;
-    height:100vh;;
-}
-.filters-title{
-    font-size: 25px;
+    height:100vh;
 }
 .welcome-note{
     color:white;
@@ -184,6 +201,9 @@ html{
 /* --------------------------MODAL------------------------- */
 .modal-title{
     margin:auto;
+}
+.modal-info-title{
+    font-size: 19px;
 }
 .close{
     position:absolute;
@@ -225,7 +245,7 @@ html{
 }
 /* --------------------------------PRODUCT DISPLAY----------------------------------------- */
 .product-display-modal{
-    /* height:90vh; */
+    height:90vh;
     width:80vw;
     margin:auto;
     background: #fff;
@@ -233,7 +253,8 @@ html{
 	max-width: 100%;
 	margin: 50px auto;
 	padding: 15px;
-    
+    z-index: 21;
+    overflow: hidden;
 }
 .animate-zoom {
     animation:animatezoom 0.6s
@@ -241,17 +262,21 @@ html{
 @keyframes animatezoom{
     from{transform:scale(0)} to{transform:scale(1)}
 }
+
 .animate-opacity{
     animation:opac 0.8s
-}@keyframes opac{
+}
+@keyframes opac{
     from{opacity:0} to{opacity:1}
 }
+
 .animate-right{
     position:relative;animation:animateright 0.4s
 }
 @keyframes animateright{
     from{right:-300px;opacity:0} to{right:0;opacity:1}
 }
+
 .animate-top{
     position:relative;
     animation:animatetop 0.4s
@@ -259,6 +284,7 @@ html{
 @keyframes animatetop{
     from{top:-300px;opacity:0} to{top:0;opacity:1}
 }
+
 .w-100{
     width:100vw;
 }
@@ -288,6 +314,8 @@ html{
 }
 .display-modal-body{
     display:flex;
+    overflow: hidden;
+    height:100%;
 }
 .modal-body-display{
     width:50%;
@@ -301,8 +329,9 @@ html{
 }
 .modal-body-info{
     width:50%;
+    height:90%;
     padding:5%;
-    overflow-y:hidden;
+    overflow:scroll;
 }
 .modal-body-btn-holder{
     display:flex;
@@ -322,7 +351,8 @@ html{
 	position: fixed;
 	right: 0;
 	top: 0;
-	z-index: 1;
+	z-index: 21;
+    overflow-y: hidden;
 }
 
 .modal__container {
@@ -332,6 +362,8 @@ html{
 	margin: 50px auto;
 	padding: 15px;
 	width: 560px;
+    z-index: 20;
+    overflow-y: hidden;
 }
 
 .modal__title {
@@ -357,4 +389,101 @@ html{
     transform: scale(1.1);
 }
 
-/* ------------------------------------------- */
+/* --------------------------FILTERS---------------------------- */
+.filter-checkboxes{
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+.filter-label{
+    margin-left:5px;
+}
+.filter-title{
+    font-size: 22px;
+}
+.filters-holder{
+    padding:5%;
+}
+.filters-section-title{
+    font-size: 25px;
+}
+/* --------------------------SHOPPING CART---------------------------- */
+.shopping-cart-modal-body{
+    width:100%;
+    height:375px;
+    padding:1%;
+    overflow-y:scroll;
+}
+.modal-body-info{
+    width:50%;
+    height:90%;
+    padding:5%;
+    overflow-y:scroll;
+}
+.scroll-div{
+    height: 375px;
+    padding:0px;
+    /* overflow: scroll; */
+}
+.shopping-cart-display-modal{
+    max-height:90vh;
+    width:80vw;
+    margin:auto;
+    background: #fff;
+	border-radius: 5px;
+	max-width: 100%;
+	margin: 50px auto;
+	padding: 15px;
+    z-index: 21;
+    overflow: hidden;
+}
+.wishlist-modal-body{
+    padding:5%;
+    overflow-y:scroll;
+    max-height:90vh;
+    height:90%;
+}
+.shopping-cart-product-image{
+    /* width:100%; */
+    height:120px;
+    border-radius: 10px;
+    margin-top: 0px;
+}
+.shopping-cart-image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:auto;
+    height:150px;
+    width:20%;
+}
+.cart-product-info{
+    width:80%;
+    height:150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding:5%
+}
+.cart-product{
+    display:flex;
+    align-items: center;
+    height:150px;
+    border-style: solid;
+    border-width: 0.6px;
+    border-color: lightgray;
+    border-radius: 3%;
+    overflow:hidden;
+}
+.shopping-cart-product-name{
+    font-size: 20px;
+}
+.shopping-cart-product-price{
+    font-size: 18px;
+}
+.cart-product-btn-holder{
+    padding:1%;
+}
+.cart-checkout-btn{
+    background-color: #3282B8;
+    color:white;
+}
