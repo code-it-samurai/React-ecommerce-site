@@ -6,7 +6,7 @@ function Welcome_display(props){
 
     var count = 0
     var filteredProducts = JSONDATA.filter((product)=>{
-        if(count < 10){
+        if(count < 4){
             if(product.category == "Electronics" ){
                 count +=1;
                 return product;
@@ -18,17 +18,23 @@ function Welcome_display(props){
         {props.authenticated?
         <div class="welcome-note">Welcome back, {props.currentuser.username}</div>:null
         }
-        <div class="col-lg-12 home-suggest">
+        <div class="home-suggest">
             <h3 class="home-suggest-title">Brand New Electronics</h3>
             <div class="home-suggest-products">
                 {filteredProducts.map((product)=>{
-                    return <div class="col-lg-3 col-sm-12">
+                    return <div>
                         <Product_tile
                             selectedCategory={props.selectedCategory}
                             setdisplayproduct={props.setdisplayproduct}
                             setproductdisplaymodal={props.setproductdisplaymodal} 
                             product={product}
                             setsignupmodal = {props.setsignupmodal}
+                            authenticated = {props.authenticated}
+                            currentuser = {props.currentuser}
+                            setcurrentuser = {props.setcurrentuser}
+                            noticemodal={props.noticemodal}
+                            setnoticemessage={props.setnoticemessage}
+                            setnoticemodal={props.setnoticemodal}
                         />
                     </div>
                 })}

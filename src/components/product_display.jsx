@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 
 function Product_display(props){
+    const COMMONFIELDS = ["brand", "sub_category", "product_name", "category", "price", "id"]
     function handle_add_to_cart_click(productId){
         if(props.authenticated){
             let cuser = props.currentuser
@@ -20,6 +21,20 @@ function Product_display(props){
         else{
             props.setsignupmodal(true)
         }
+    }
+
+    // special fields are the fields of information in product object which are different than the common ones
+    //special fields are required to conditionally render product information
+    //for example a "camera_resolution" field should not be displayed when displaying info of a book
+    function get_category_special_fields(product){
+        var special_fields = []
+        Object.keys(product).forEach((key)=>{
+            if(!COMMONFIELDS.includes(key)){
+                special_fields.push(key)
+            }
+        })
+        console.log("specialfields " + special_fields)
+        return special_fields;
     }
 
     function render_add_to_cart_button(product){
@@ -69,11 +84,12 @@ function Product_display(props){
                         <div class="modal-info-title">Brand</div>
                         <p>{props.product.brand}</p>
                     </div>
-                    {props.product.category == "Electronics" &&
-                    <div>
-                        <div class="modal-info-title">Camera</div>
-                        <p>{props.product.camera_resolution}</p>
-                    </div>}
+                    {get_category_special_fields(props.product).map((key)=>{
+                        return <div>
+                            <div class="modal-info-title">{key}</div>
+                            <p>{props.product[key]}</p>
+                        </div>
+                    })}
                     <div>
                         <div class="modal-info-title">Description</div>
                         <p>

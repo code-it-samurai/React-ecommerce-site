@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import "../App.css";
 import JSONDATA from "../PRODUCTS_DATA.json";
+import Sidebar from "./sidebar";
 
 function Navbar(props){
 	const [searchBarContent, setSearchBarContent] = useState("")
@@ -17,15 +18,23 @@ function Navbar(props){
 		}
 	})
     return <nav class="navbar-main">
-			<div class="logo" onClick={(e)=>{e.preventDefault(); props.setSearchPage(false)}}>MAMNOZ</div>
-			<form class="form-inline my-lg-0 nav-search-form">
+			<p class="hamburger" onClick={()=>{props.setsidebar(!props.sidebar)}}>&#9776;</p>
+			<p class="logo" onClick={(e)=>{e.preventDefault(); props.setSearchPage(false)}}>MAMNOZ</p>
+			<form class="nav-search-form">
 				<div class="dropdown show">
-				<button type="button" class="btn btn-secondary dropdown-toggle dropdown-toggle-split category-button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+				<button type="button" class="btn btn-secondary dropdown-toggle dropdown-toggle-split category-button-lg" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
     				<span class="category-button-text">{props.selectedCategory}</span>
+  				</button>
+				<button type="button" class="btn btn-secondary dropdown-toggle dropdown-toggle-split category-button-sm" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    				<span class="category-button-text"></span>
   				</button>
 					<div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
 						{categories.map((category_name)=>{
-							return <button class="dropdown-item" onClick={(e)=>{e.preventDefault(); props.setSelectedCategory(category_name) }}>{category_name}</button>
+							if(category_name == "Category"){
+								return <button class="dropdown-item" onClick={(e)=>{e.preventDefault(); props.setSelectedCategory(category_name); props.setfiltersidebar(false)}}>{category_name}</button>
+							}else{
+								return <button class="dropdown-item" onClick={(e)=>{e.preventDefault(); props.setSelectedCategory(category_name); props.setfiltersidebar(true)}}>{category_name}</button>
+							}
 						})}
 					</div>
 				</div>
@@ -46,16 +55,16 @@ function Navbar(props){
 			{props.authenticated
 			?
 			<div class="navbar-btn-holder">
-				<button type="button" class="btn btn-warning navbar-btn" onClick={(e)=>{e.preventDefault(); props.setshoppingcartmodal(true);}}><img src={ require("../media/shopping-cart.png").default} class="cart-image"/></button>
-				<button type="button" class="btn btn-danger navbar-btn" onClick={(e)=>{e.preventDefault(); props.setwishlistmodal(true);}}><img src={ require("../media/emptyheart.png").default} class="cart-image"/></button>
-				<button type="button" class="btn btn-light navbar-btn" onClick={(e)=>{e.preventDefault(); props.setshoppingcartmodal(true);}}>Checkout</button>
+				<button type="button" class="btn btn-warning navbar-btn navbar-btn-cart" onClick={(e)=>{e.preventDefault(); props.setshoppingcartmodal(true);}}><img src={ require("../media/shopping-cart.png").default} class="cart-image"/></button>
+				<button type="button" class="btn btn-danger navbar-btn navbar-btn-wishlist" onClick={(e)=>{e.preventDefault(); props.setwishlistmodal(true);}}><img src={ require("../media/emptyheart.png").default} class="cart-image"/></button>
+				<button type="button" class="btn btn-light navbar-btn navbar-btn-checkout" onClick={(e)=>{e.preventDefault(); props.setshoppingcartmodal(true);}}>Checkout</button>
 			</div>
 			:
 			<div class="navbar-btn-holder">
-				<button type="button" class="btn btn-light navbar-btn" onClick={()=>{props.setloginmodal(true)}} >
+				<button type="button" class="btn btn-light navbar-login-btn" onClick={()=>{props.setloginmodal(true)}} >
 					Login
 				</button>
-				<button type="button" class="btn btn-light navbar-btn" onClick={()=>{props.setsignupmodal(true)}}>
+				<button type="button" class="btn btn-light navbar-signup-btn" onClick={()=>{props.setsignupmodal(true)}}>
 					Signup
 				</button>
 			</div>

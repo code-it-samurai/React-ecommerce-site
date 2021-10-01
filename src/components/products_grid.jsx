@@ -3,11 +3,11 @@ import '../App.css';
 import JSONDATA from "../PRODUCTS_DATA.json";
 import { useEffect } from "react";
 import Product_tile from "./product_tile";
+import Sidebar from "./sidebar";
 
 function ProductGrid(props){
     //keeps track of which brand checkboxes are checked
     const [filtersQueue, setFiltersQueue]=useState([])
-
     // Boolean states are used to track checkbox selections
     const [electronicsFilterBooleanStates, setElectronicsFilterBooleanStates] = useState({
         checkedBrandState:new Array(get_a_field("brand", JSONDATA).length).fill(false),
@@ -87,7 +87,7 @@ function ProductGrid(props){
         }
     }
 
-    const price_range_check = (product) => {
+    const price_range_check = (field_name, product, state_array) => {
         let values = electronicsFilterStringStates.CheckedPriceRange.split('₹')
         let value = parseInt(values[1]);
         let product_price= parseInt(product.price.substring(1,product.price.length))
@@ -101,7 +101,7 @@ function ProductGrid(props){
         var updated_results = JSONDATA.filter((product)=>{
             if(props.searchword != ""){
                 if(props.selectedCategory != "Category"){
-                    if(product.category == props.selectedCategory && product.product_name.toLowerCase().includes(props.searchword.toLowerCase())){
+                    if(product.category == props.selectedCategory && (product.product_name.toLowerCase().includes(props.searchword.toLowerCase()) || product.brand.toLowerCase().includes(props.searchword.toLowerCase()) )){
                         if(filtersQueue.length != 0){ 
                             let eligible = true
                             filtersQueue.map((filter_object)=>{
@@ -139,7 +139,7 @@ function ProductGrid(props){
             updatedFiltersQueue.push({field_name:"sub_category", state_array:electronicsFilterStringStates.checkedDeviceTypes, filter_function: filter_out});
         }
         if(electronicsFilterStringStates.CheckedPriceRange != null && electronicsFilterStringStates.CheckedPriceRange.length > 0){
-            updatedFiltersQueue.push(price_range_check)
+            updatedFiltersQueue.push({field_name:"price", state_array:"state_array", filter_function:price_range_check})
         }
         setFiltersQueue(updatedFiltersQueue);
     }
@@ -289,11 +289,11 @@ function ProductGrid(props){
     },[electronicsFilterBooleanStates, electronicsFilterStringStates])
     useEffect(()=>{
         update_results();
-    },[props.searchword])
+    },[props.searchword, props.selectedCategory])
 
     return<div class="search-page">
-        {props.selectedCategory != "Category" &&
-        <div class="filter-section">
+        <div class={`filter-section ${props.filtersidebar ? "translate-filter-section-out" : "translate-filter-section-in"}`} id="filter-section">
+            <div class="close-filters-sidebar-btn" onClick={()=>{props.setfiltersidebar(!props.filtersidebar)}}>«</div>
             <div class="filters-section-title">Filters for {props.selectedCategory}</div>
             <div class="filters-holder">
                 <div class="brand-filter">
@@ -313,17 +313,26 @@ function ProductGrid(props){
                     {renderRadioButtonSet(get_all_price_ranges,onRadioSelect, electronicsFilterStringStates.CheckedPriceRange)}
                 </div>
             </div>
-        </div>}
-        <div class={`grid-holder ${props.selectedCategory != "Category"? "width-80": null}`}>
+        </div>
+        <div class={`grid-holder`}>
+            {props.selectedCategory != "Category" &&
+            <div class="open-filters-sidebar-btn" onClick={()=>{props.setfiltersidebar(!props.filtersidebar)}}>»</div>
+            }
             <div class="products-holder">
                 {results.map((product)=>{
-                    return  <div class={`col-sm-12 ${props.selectedCategory != "Category"? "col-lg-4": "col-lg-3"}`} >
+                    return  <div class="tile-holder" >
                         <Product_tile
                             selectedCategory={props.selectedCategory}
                             setdisplayproduct={props.setdisplayproduct}
                             setproductdisplaymodal={props.setproductdisplaymodal} 
                             product={product}
                             setsignupmodal = {props.setsignupmodal}
+                            authenticated = {props.authenticated}
+                            currentuser = {props.currentuser}
+                            setcurrentuser = {props.setcurrentuser}
+                            noticemodal={props.noticemodal}
+                            setnoticemessage={props.setnoticemessage}
+                            setnoticemodal={props.setnoticemodal}
                         />
                     </div>
                 })}

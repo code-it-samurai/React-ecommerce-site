@@ -80,7 +80,6 @@ function Product_tile(props){
                         {props.product.product_name.length > 18 ? <h5>{`${props.product.product_name.substring(0,15)}...`}</h5> : <h5>{props.product.product_name}</h5>}
                         <p>{props.product.brand}</p>
                         <p>{props.product.price}</p>
-                        <p>{props.selectedCategory}</p>
                     </div>
                     <div class="product-name-price-right">
                         {render_wishlist_button(props.product)}

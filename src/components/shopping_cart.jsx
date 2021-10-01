@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
-import JSONDATA from "../PRODUCTS_DATA.json"
+import JSONDATA from "../PRODUCTS_DATA.json";
+import CartProductTile from "./cart-product-tile";
 
 
 function Shopping_cart(props){
@@ -31,18 +32,18 @@ function Shopping_cart(props){
     }
 
     function handle_checked_out(){
-        let cuser = props.currentuser
-        cuser.cart = []
-        props.setcurrentuser(cuser)
+        let current_user = props.currentuser
+        current_user.cart = []
+        props.setcurrentuser(current_user)
     }
 
     function handle_product_removal(productId){
-        let cuser = props.currentuser
-        let cartarray = cuser.cart
+        let current_user = props.currentuser
+        let cartarray = current_user.cart
         let index = cartarray.indexOf(productId)
         cartarray.splice(index, 1)
-        cuser.cart = cartarray
-        props.setcurrentuser(cuser)
+        current_user.cart = cartarray
+        props.setcurrentuser(current_user)
         update_results();
     }
 
@@ -63,19 +64,11 @@ function Shopping_cart(props){
             <div class="scroll-div">
                 <div class="shopping-cart-modal-body">
                     {results.map((product)=>{
-                        return<div class="cart-product">
-                            <div class="shopping-cart-image">
-                                <img src={require(`../media/${product.sub_category}.jpg`).default} class="shopping-cart-product-image" />
-                            </div>
-                            <div class="cart-product-info">
-                                <div class="shopping-cart-product-name">{product.product_name}</div>
-                                <div class="shopping-cart-product-brand">by {product.brand}</div>
-                                <div class="shopping-cart-product-price">{product.price}</div>
-                            </div>
-                            <div class="cart-product-btn-holder">
-                                <div class="btn btn-danger remove-item-btn" onClick={()=>{handle_product_removal(product.id)}}>Remove Item</div>
-                            </div>
-                        </div>
+                        return <CartProductTile
+                            product = {product}
+                            currentuser={props.currentuser}
+                            handleproductremoval = {handle_product_removal}
+                        />
                     })}
                 </div>
             </div>

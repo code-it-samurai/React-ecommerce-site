@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import JSONDATA from "../PRODUCTS_DATA.json"
+import CartProductTile from "./cart-product-tile";
 
 
 function Wishlist(props){
@@ -45,19 +46,11 @@ function Wishlist(props){
             <div class="scroll-div">
                 <div class="wishlist-modal-body">
                     {results.map((product)=>{
-                        return<div class="cart-product">
-                            <div class="shopping-cart-image">
-                                <img src={require(`../media/${product.sub_category}.jpg`).default} class="shopping-cart-product-image" />
-                            </div>
-                            <div class="cart-product-info">
-                                <div class="shopping-cart-product-name">{product.product_name}</div>
-                                <div class="shopping-cart-product-brand">by {product.brand}</div>
-                                <div class="shopping-cart-product-price">{product.price}</div>
-                            </div>
-                            <div class="cart-product-btn-holder">
-                                <div class="btn btn-danger remove-item-btn" onClick={()=>{handle_product_removal(product.id)}}>Remove Item</div>
-                            </div>
-                        </div>
+                        return<CartProductTile
+                            product = {product}
+                            currentuser={props.currentuser}
+                            handleproductremoval = {handle_product_removal}
+                        />
                     })}
                 </div>
             </div>
