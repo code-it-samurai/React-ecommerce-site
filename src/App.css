@@ -12,6 +12,10 @@ html{
     .category-button-lg{
         display:none;
     }
+    .main-components-holder{
+        display: flex;
+        flex-direction: row;
+    }
     .category-button-sm{
         height:40px;
         display:block;
@@ -36,10 +40,17 @@ html{
         position:fixed;
         overflow-y: scroll;
         background: white;
-        height: 100%; /* 100% Full-height */
-        z-index: 10; /* Stay on top */
-        overflow-x: hidden; /* Disable horizontal scroll */
-        transition: all 2s; /* 0.5 second transition effect to slide in the sidebar */
+        height: 91%;
+        z-index: 10; 
+        overflow-x: hidden; 
+        scrollbar-width:none;
+        border-width: 0 4px 0 0;
+        border-style: solid;
+        /* border-radius: 50px; */
+        border-color: #17202a;
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;
+        transition: all 2s; 
     }
     .hamburger{
         text-decoration: none;
@@ -81,7 +92,7 @@ html{
         height:90%;
         padding:5%;
         /* overflow:scroll; */
-        margin-bottom: 400px;
+        margin-bottom: 500px;
     }
     .cart-product{
         display:flex;
@@ -115,6 +126,27 @@ html{
         cursor:pointer;
         display:flex;
         max-width: 300px;
+    }
+    .sidebar{
+        width:50%;
+        padding:1%;
+        margin-top:60px;
+        position:fixed;
+        height: 91%;
+        z-index: 8;
+        overflow-x: hidden;
+        transition: all 1s; 
+        background:white;
+        overflow-y: scroll;
+        display:flex;
+        flex-direction: column;
+        scrollbar-width:none;
+        border-width: 0 4px 0 0;
+        border-style: solid;
+        /* border-radius: 50px; */
+        border-color: #17202a;
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;
     }
 }
 @media only screen and (min-width: 750px) and (max-width: 1000px) {
@@ -151,10 +183,17 @@ html{
         position:fixed;
         overflow-y: scroll;
         background: white;
-        height: 100%; /* 100% Full-height */
-        z-index: 10; /* Stay on top */
-        overflow-x: hidden; /* Disable horizontal scroll */
-        transition: all 2s; /* 0.5 second transition effect to slide in the sidebar */
+        height: 91%;
+        z-index: 10; 
+        overflow-x: hidden; 
+        scrollbar-width:none;
+        border-width: 0 4px 0 0;
+        border-style: solid;
+        /* border-radius: 50px; */
+        border-color: #17202a;
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;
+        transition: all 2s; 
     }
     .hamburger{
         display:none;
@@ -181,7 +220,7 @@ html{
         height:90%;
         padding:5%;
         /* overflow:scroll; */
-        margin-bottom: 200px;
+        margin-bottom: 300px;
     }
     .cart-product{
         display:flex;
@@ -210,6 +249,9 @@ html{
         background-color: white;
         cursor:pointer;
         display:flex;
+    }
+    .sidebar{
+        display:none;
     }
 }
 @media only screen and (min-width: 1000px) and (max-width: 1310px){
@@ -246,10 +288,17 @@ html{
         position:fixed;
         overflow-y: scroll;
         background: white;
-        height: 100%; /* 100% Full-height */
-        z-index: 10; /* Stay on top */
-        overflow-x: hidden; /* Disable horizontal scroll */
-        transition: all 2s; /* 0.5 second transition effect to slide in the sidebar */
+        border-width: 0 4px 0 0;
+        z-index: 10; 
+        overflow-x: hidden; 
+        scrollbar-width:none;
+        border-width: 1px;
+        border-style: solid;
+        /* border-radius: 50px; */
+        border-color: #17202a;
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;
+        transition: all 2s; 
     }
     .hamburger{
         text-decoration: none;
@@ -313,11 +362,13 @@ html{
         cursor:pointer;
         display:flex;
     }
+    .sidebar{
+        display:none;
+    }
 }
 
 /* LAPTOP/PC */
 @media only screen and (min-width: 1310px) and (max-width: 1400px){
-/* @media (max-width: 1400.98px) { */
     .logo{
         text-decoration: none;
         color:white;
@@ -350,10 +401,17 @@ html{
         margin-top:60px;
         overflow-y: scroll;
         position:fixed;
-        height: 100%; /* 100% Full-height */
-        z-index: 6; /* Stay on top */
-        overflow-x: hidden; /* Disable horizontal scroll */
-        transition: all 1s; /* 0.5 second transition effect to slide in the sidebar */
+        height: 91%;
+        z-index: 6; 
+        overflow-x: hidden; 
+        scrollbar-width:none;
+        border-width: 0 4px 0 0;
+        border-style: solid;
+        /* border-radius: 50px; */
+        border-color: #17202a;
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;
+        transition: all 1s; 
         background-color: white;
     }
     .hamburger{
@@ -363,19 +421,6 @@ html{
         -ms-flex:0 0 25%;
         flex:0 0 25%;
         max-width:25%;
-    }
-    .sidebar{
-        width:50%;
-        padding:1%;
-        /* padding-top:10vh; */
-        margin-top: 200px;
-        position:fixed;
-        overflow-y: scroll;
-        background: white;
-        height: 100%; /* 100% Full-height */
-        z-index: 10; /* Stay on top */
-        overflow-x: hidden; /* Disable horizontal scroll */
-        transition: all 2s; /* 0.5 second transition effect to slide in the sidebar */
     }
     .display-modal-body{
         display:flex;
@@ -391,10 +436,6 @@ html{
         height:90%;
         padding:5%;
         overflow:scroll;
-    }
-    .main-components-holder{
-        display: flex;
-        
     }
     .cart-product{
         display:flex;
@@ -424,6 +465,9 @@ html{
         cursor:pointer;
         display:flex;
     }
+    .sidebar{
+        display:none;
+    }
 }
 .width-40{
     width:40%;
@@ -438,6 +482,13 @@ html{
     transform: translateX(-500px);
 }
 .translate-filter-section-out{
+    transform: translateX(0);
+    /* position:relative; */
+}
+.translate-sidebar-in{
+    transform: translateX(-500px);
+}
+.translate-sidebar-out{
     transform: translateX(0);
     /* position:relative; */
 }
@@ -520,19 +571,21 @@ html{
     max-height: 500px;
 }
 .grid-holder{
-    /* width:80%; */
     padding:4%;
     width:100%;
     background-color: #17202a;
     overflow-y: scroll;
     margin-top:40px;
-    /* margin-top: 10vh; */
 }
 .home-grid-holder{
-    padding:5%;
+    padding:4%;
     width:100%;
     background-color: #17202a;
     overflow-y: scroll;
+    margin-top:40px;
+}
+.second-half{
+    width:100%;
 }
 .width-80{
     width:80%;
@@ -541,6 +594,10 @@ html{
     width:100%;
     height:175px;
     border-radius: 10px;
+}
+.home-carousel-image{
+    width:100%;
+    object-fit:cover;
 }
 .product-modal-image{
     height:250px;
@@ -600,6 +657,12 @@ html{
 .search-page{
     display: flex;
     height:100%;
+    width:100%;
+}
+.main-holder{
+    display: flex;
+    height:100%;
+    width:100%;
 }
 .welcome-note{
     color:white;
@@ -905,4 +968,74 @@ html{
 .cart-checkout-btn{
     background-color: #3282B8;
     color:white;
+}
+/* ----------------------------------USERPROFILE----------------------------------- */
+.userprofile-image{
+    height:100px;
+    width:100px;
+}
+.sidebar-userprofile{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.signout-btn-div{
+    margin-top:auto;
+}
+.sidebar-options-div{
+    margin-top: 20px    ;
+}
+.sidebar-option{
+    text-align: center;
+    height:40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor:pointer;
+}
+.sidebar-option:hover{
+    background:lightgray;
+}
+.suggest-carousel{
+    background-color: white;
+    display:flex;
+    width:100%;
+    justify-content: space-between;
+    height:300px;
+    margin-bottom:20px;
+    align-items: center;
+}
+.prev-slide-btn{
+    background-color: rgba(0, 0, 0, .65);
+    /* height:100%; */
+    color:white;
+    text-align: center;
+    display:flex;
+    align-items: center;
+    z-index: 5;
+}
+.next-slide-btn{
+    background-color: rgba(0, 0, 0, .65);
+    /* height:100%; */
+    color:white;
+    text-align: center;
+    display:flex;
+    align-items: center;
+    z-index: 5;
+}
+.suggest-carousel-active-slide{
+    position: absolute;
+    height:300px;
+    width:91%;
+    overflow: hidden;
+}
+.on-top-of-carousel{
+    background:rgba(0, 0, 0, .65);
+    width:100%;
+    height:100%;
+    z-index: 20;
+    display:flex;
+    justify-content: space-between;
 }

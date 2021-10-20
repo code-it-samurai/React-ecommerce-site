@@ -26,10 +26,9 @@ function App(){
 	const [noticeModal, setNoticeModal] = useState(false);
 	const [noticeMessage, setNoticeMessage] = useState("");
 	const [sidebar, setSidebar] = useState(false);
-    const [ filterSidebar, setFilterSidebar] = useState(selectedCategory != "Category")
+    const [filterSidebar, setFilterSidebar] = useState(selectedCategory != "Category")
 
-
-	return<div>
+	return<div class="main-holder">
 		<Navbar 
 			setdisplayproduct={setDisplayProduct} 
 			suggestions={suggestions} setSearchPage={setSearchPage} 
@@ -73,48 +72,41 @@ function App(){
 		{shoppingCartModal && <Shopping_cart shoppingcartmodal={shoppingCartModal} setshoppingcartmodal={setShoppingCartModal} currentuser={currentUser} setcurrentuser={setCurrentUser} />}
 		{wishlistModal && <Wishlist wishlistmodal={wishlistModal} setwishlistmodal={setWishlistModal} currentuser={currentUser} setcurrentuser={setCurrentUser} />}
 		{noticeModal && <Notice_modal noticemodal={noticeModal} setnoticemessage={setNoticeMessage} noticemessage={noticeMessage} setnoticemodal={setNoticeModal}/>}
-		<div class="main-components-holder">
-			{sidebar &&  
-				<Sidebar 
-					sidebar={sidebar} 
-					setsidebar={setSidebar}
-				/>
-			}
-			{searchPage ?
-				<ProductGrid 
-					searchword={searchword} 
-					selectedCategory = {selectedCategory} 
-					setdisplayproduct={setDisplayProduct} 
-					setproductdisplaymodal={setProductDisplayModal} 
-					setsignupmodal={setSignupModal} 
-					currentuser={currentUser}
-					setcurrentuser={setCurrentUser} 
-					authenticated={authenticated} 
-					noticemodal={noticeModal} 
-					setnoticemessage={setNoticeMessage} 
-					noticemessage={noticeMessage} 
-					setnoticemodal={setNoticeModal} 
-					sidebar={sidebar} 
-					setsidebar={setSidebar}
-					filtersidebar={filterSidebar}
-					setfiltersidebar={setFilterSidebar}
-				/>
-			:
-				<Welcome_display 
-					currentuser={currentUser} 
-					setdisplayproduct={setDisplayProduct} 
-					setsignupmodal={setSignupModal} 
-					authenticated={authenticated} 
-					productdisplaymodal={productDisplayModal} 
-					setproductdisplaymodal={setProductDisplayModal} 
-					setcurrentuser={setCurrentUser} 
-					noticemodal={noticeModal} 
-					setnoticemessage={setNoticeMessage} 
-					noticemessage={noticeMessage} 
-					setnoticemodal={setNoticeModal}
-				/>
-			}
-		</div>
+		<Sidebar sidebar = {sidebar} setsidebar = {setSidebar} setsearchpage={setSearchPage} setwishlistmodal={setWishlistModal} setshoppingcartmodal={setShoppingCartModal}/>
+		{searchPage ?
+			<ProductGrid 
+				searchword={searchword} 
+				selectedCategory = {selectedCategory} 
+				setdisplayproduct={setDisplayProduct} 
+				setproductdisplaymodal={setProductDisplayModal} 
+				setsignupmodal={setSignupModal} 
+				currentuser={currentUser}
+				setcurrentuser={setCurrentUser} 
+				authenticated={authenticated} 
+				noticemodal={noticeModal} 
+				setnoticemessage={setNoticeMessage} 
+				noticemessage={noticeMessage} 
+				setnoticemodal={setNoticeModal} 
+				sidebar={sidebar} 
+				setsidebar={setSidebar}
+				filtersidebar={filterSidebar}
+				setfiltersidebar={setFilterSidebar}
+			/>
+		:
+			<Welcome_display 
+				currentuser={currentUser} 
+				setdisplayproduct={setDisplayProduct} 
+				setsignupmodal={setSignupModal} 
+				authenticated={authenticated} 
+				productdisplaymodal={productDisplayModal} 
+				setproductdisplaymodal={setProductDisplayModal} 
+				setcurrentuser={setCurrentUser} 
+				noticemodal={noticeModal} 
+				setnoticemessage={setNoticeMessage} 
+				noticemessage={noticeMessage} 
+				setnoticemodal={setNoticeModal}
+			/>
+		}
 	</div>
 }
 
